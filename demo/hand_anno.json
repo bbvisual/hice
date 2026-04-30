@@ -1,0 +1,7264 @@
+{
+  "demo_video": {
+    "000000.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          5,
+          11,
+          348,
+          384
+        ],
+        "grasp": {
+          "NP-Palm": "0.0225",
+          "NP-Fin": "0.3404",
+          "Pow-Pris": "0.1808",
+          "Pre-Pris": "0.4456",
+          "Pow-Circ": "0.0016",
+          "Pre-Circ": "0.0028",
+          "Later": "0.0062",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000001.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          4,
+          11,
+          351,
+          387
+        ],
+        "grasp": {
+          "NP-Palm": "0.0242",
+          "NP-Fin": "0.287",
+          "Pow-Pris": "0.2611",
+          "Pre-Pris": "0.4187",
+          "Pow-Circ": "0.0014",
+          "Pre-Circ": "0.0017",
+          "Later": "0.0058",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000002.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          8,
+          7,
+          352,
+          388
+        ],
+        "grasp": {
+          "NP-Palm": "0.0267",
+          "NP-Fin": "0.2586",
+          "Pow-Pris": "0.3111",
+          "Pre-Pris": "0.3957",
+          "Pow-Circ": "0.0014",
+          "Pre-Circ": "0.0013",
+          "Later": "0.0052",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000003.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          4,
+          10,
+          347,
+          386
+        ],
+        "grasp": {
+          "NP-Palm": "0.0171",
+          "NP-Fin": "0.2736",
+          "Pow-Pris": "0.242",
+          "Pre-Pris": "0.4584",
+          "Pow-Circ": "0.001",
+          "Pre-Circ": "0.0015",
+          "Later": "0.0064",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000004.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          4,
+          11,
+          351,
+          385
+        ],
+        "grasp": {
+          "NP-Palm": "0.0138",
+          "NP-Fin": "0.1933",
+          "Pow-Pris": "0.2799",
+          "Pre-Pris": "0.5026",
+          "Pow-Circ": "0.0016",
+          "Pre-Circ": "0.0023",
+          "Later": "0.0066",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000005.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          4,
+          10,
+          350,
+          388
+        ],
+        "grasp": {
+          "NP-Palm": "0.0206",
+          "NP-Fin": "0.3119",
+          "Pow-Pris": "0.2267",
+          "Pre-Pris": "0.4328",
+          "Pow-Circ": "0.0012",
+          "Pre-Circ": "0.0017",
+          "Later": "0.0052",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000006.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          6,
+          6,
+          352,
+          389
+        ],
+        "grasp": {
+          "NP-Palm": "0.0157",
+          "NP-Fin": "0.1699",
+          "Pow-Pris": "0.3102",
+          "Pre-Pris": "0.4939",
+          "Pow-Circ": "0.0019",
+          "Pre-Circ": "0.0023",
+          "Later": "0.0062",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000007.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          3,
+          11,
+          351,
+          390
+        ],
+        "grasp": {
+          "NP-Palm": "0.0152",
+          "NP-Fin": "0.1902",
+          "Pow-Pris": "0.3085",
+          "Pre-Pris": "0.4766",
+          "Pow-Circ": "0.0014",
+          "Pre-Circ": "0.0018",
+          "Later": "0.0064",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000008.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          2,
+          4,
+          352,
+          380
+        ],
+        "grasp": {
+          "NP-Palm": "0.0222",
+          "NP-Fin": "0.2927",
+          "Pow-Pris": "0.1755",
+          "Pre-Pris": "0.497",
+          "Pow-Circ": "0.0024",
+          "Pre-Circ": "0.0044",
+          "Later": "0.0057",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000009.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          0,
+          4,
+          335,
+          377
+        ],
+        "grasp": {
+          "NP-Palm": "0.0365",
+          "NP-Fin": "0.1073",
+          "Pow-Pris": "0.4617",
+          "Pre-Pris": "0.3621",
+          "Pow-Circ": "0.0164",
+          "Pre-Circ": "0.0077",
+          "Later": "0.0083",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000010.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          3,
+          11,
+          349,
+          388
+        ],
+        "grasp": {
+          "NP-Palm": "0.0206",
+          "NP-Fin": "0.2272",
+          "Pow-Pris": "0.2982",
+          "Pre-Pris": "0.4434",
+          "Pow-Circ": "0.002",
+          "Pre-Circ": "0.0022",
+          "Later": "0.0064",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000011.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          3,
+          12,
+          351,
+          390
+        ],
+        "grasp": {
+          "NP-Palm": "0.0211",
+          "NP-Fin": "0.1471",
+          "Pow-Pris": "0.4349",
+          "Pre-Pris": "0.3867",
+          "Pow-Circ": "0.0028",
+          "Pre-Circ": "0.0018",
+          "Later": "0.0055",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000012.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          6,
+          8,
+          356,
+          390
+        ],
+        "grasp": {
+          "NP-Palm": "0.0187",
+          "NP-Fin": "0.1493",
+          "Pow-Pris": "0.3948",
+          "Pre-Pris": "0.4275",
+          "Pow-Circ": "0.002",
+          "Pre-Circ": "0.0017",
+          "Later": "0.006",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000013.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          4,
+          11,
+          353,
+          388
+        ],
+        "grasp": {
+          "NP-Palm": "0.016",
+          "NP-Fin": "0.1156",
+          "Pow-Pris": "0.4969",
+          "Pre-Pris": "0.3635",
+          "Pow-Circ": "0.0016",
+          "Pre-Circ": "0.001",
+          "Later": "0.0054",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000014.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          1,
+          3,
+          351,
+          381
+        ],
+        "grasp": {
+          "NP-Palm": "0.0117",
+          "NP-Fin": "0.1115",
+          "Pow-Pris": "0.3776",
+          "Pre-Pris": "0.491",
+          "Pow-Circ": "0.0016",
+          "Pre-Circ": "0.0016",
+          "Later": "0.005",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000015.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          5,
+          3,
+          360,
+          377
+        ],
+        "grasp": {
+          "NP-Palm": "0.0061",
+          "NP-Fin": "0.1178",
+          "Pow-Pris": "0.2025",
+          "Pre-Pris": "0.6619",
+          "Pow-Circ": "0.0016",
+          "Pre-Circ": "0.0038",
+          "Later": "0.0063",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000016.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          5,
+          5,
+          356,
+          389
+        ],
+        "grasp": {
+          "NP-Palm": "0.0115",
+          "NP-Fin": "0.2098",
+          "Pow-Pris": "0.2269",
+          "Pre-Pris": "0.5436",
+          "Pow-Circ": "0.0008",
+          "Pre-Circ": "0.0016",
+          "Later": "0.0057",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000017.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          5,
+          11,
+          356,
+          387
+        ],
+        "grasp": {
+          "NP-Palm": "0.0083",
+          "NP-Fin": "0.1308",
+          "Pow-Pris": "0.2982",
+          "Pre-Pris": "0.5534",
+          "Pow-Circ": "0.0011",
+          "Pre-Circ": "0.0017",
+          "Later": "0.0066",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000018.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          4,
+          8,
+          359,
+          387
+        ],
+        "grasp": {
+          "NP-Palm": "0.0172",
+          "NP-Fin": "0.1494",
+          "Pow-Pris": "0.3892",
+          "Pre-Pris": "0.4363",
+          "Pow-Circ": "0.0014",
+          "Pre-Circ": "0.0013",
+          "Later": "0.0052",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000019.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          2,
+          11,
+          348,
+          382
+        ],
+        "grasp": {
+          "NP-Palm": "0.0177",
+          "NP-Fin": "0.1215",
+          "Pow-Pris": "0.4126",
+          "Pre-Pris": "0.4349",
+          "Pow-Circ": "0.0038",
+          "Pre-Circ": "0.0029",
+          "Later": "0.0065",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000020.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          1,
+          13,
+          347,
+          380
+        ],
+        "grasp": {
+          "NP-Palm": "0.0177",
+          "NP-Fin": "0.1356",
+          "Pow-Pris": "0.3822",
+          "Pre-Pris": "0.4517",
+          "Pow-Circ": "0.0034",
+          "Pre-Circ": "0.0029",
+          "Later": "0.0066",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000021.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          7,
+          5,
+          364,
+          376
+        ],
+        "grasp": {
+          "NP-Palm": "0.0105",
+          "NP-Fin": "0.1345",
+          "Pow-Pris": "0.2943",
+          "Pre-Pris": "0.5521",
+          "Pow-Circ": "0.0014",
+          "Pre-Circ": "0.002",
+          "Later": "0.0052",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000022.jpg": {
+      "left hand": {
+        "name": [
+          "left hand"
+        ],
+        "box": [
+          402,
+          443,
+          477,
+          480
+        ],
+        "grasp": {
+          "NP-Palm": "0.037",
+          "NP-Fin": "0.7448",
+          "Pow-Pris": "0.0141",
+          "Pre-Pris": "0.1995",
+          "Pow-Circ": "0.0001",
+          "Pre-Circ": "0.001",
+          "Later": "0.0033",
+          "Other": "0.0"
+        }
+      },
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          5,
+          2,
+          356,
+          383
+        ],
+        "grasp": {
+          "NP-Palm": "0.0509",
+          "NP-Fin": "0.2257",
+          "Pow-Pris": "0.4337",
+          "Pre-Pris": "0.2818",
+          "Pow-Circ": "0.0027",
+          "Pre-Circ": "0.0012",
+          "Later": "0.004",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000023.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          399,
+          425,
+          473,
+          479
+        ],
+        "grasp": {
+          "NP-Palm": "0.0469",
+          "NP-Fin": "0.8196",
+          "Pow-Pris": "0.0086",
+          "Pre-Pris": "0.1026",
+          "Pow-Circ": "0.0024",
+          "Pre-Circ": "0.0149",
+          "Later": "0.0049",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000024.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          397,
+          413,
+          471,
+          477
+        ],
+        "grasp": {
+          "NP-Palm": "0.2452",
+          "NP-Fin": "0.465",
+          "Pow-Pris": "0.1003",
+          "Pre-Pris": "0.1273",
+          "Pow-Circ": "0.0319",
+          "Pre-Circ": "0.0208",
+          "Later": "0.0094",
+          "Other": "0.0002"
+        }
+      }
+    },
+    "000025.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          394,
+          402,
+          468,
+          468
+        ],
+        "grasp": {
+          "NP-Palm": "0.2779",
+          "NP-Fin": "0.5242",
+          "Pow-Pris": "0.0773",
+          "Pre-Pris": "0.0852",
+          "Pow-Circ": "0.0185",
+          "Pre-Circ": "0.0106",
+          "Later": "0.0062",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000026.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          393,
+          392,
+          462,
+          457
+        ],
+        "grasp": {
+          "NP-Palm": "0.0467",
+          "NP-Fin": "0.3479",
+          "Pow-Pris": "0.1419",
+          "Pre-Pris": "0.4008",
+          "Pow-Circ": "0.0151",
+          "Pre-Circ": "0.0282",
+          "Later": "0.0193",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000027.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          389,
+          383,
+          457,
+          449
+        ],
+        "grasp": {
+          "NP-Palm": "0.0467",
+          "NP-Fin": "0.8585",
+          "Pow-Pris": "0.0068",
+          "Pre-Pris": "0.0757",
+          "Pow-Circ": "0.0012",
+          "Pre-Circ": "0.0074",
+          "Later": "0.0036",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000028.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          383,
+          372,
+          453,
+          438
+        ],
+        "grasp": {
+          "NP-Palm": "0.5133",
+          "NP-Fin": "0.4466",
+          "Pow-Pris": "0.0073",
+          "Pre-Pris": "0.011",
+          "Pow-Circ": "0.0144",
+          "Pre-Circ": "0.0067",
+          "Later": "0.0006",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000029.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          380,
+          357,
+          451,
+          436
+        ],
+        "grasp": {
+          "NP-Palm": "0.6263",
+          "NP-Fin": "0.1919",
+          "Pow-Pris": "0.1456",
+          "Pre-Pris": "0.017",
+          "Pow-Circ": "0.0159",
+          "Pre-Circ": "0.0011",
+          "Later": "0.002",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000030.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          376,
+          344,
+          452,
+          429
+        ],
+        "grasp": {
+          "NP-Palm": "0.0722",
+          "NP-Fin": "0.8569",
+          "Pow-Pris": "0.0154",
+          "Pre-Pris": "0.0494",
+          "Pow-Circ": "0.0007",
+          "Pre-Circ": "0.0017",
+          "Later": "0.0037",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000031.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          372,
+          328,
+          455,
+          422
+        ],
+        "grasp": {
+          "NP-Palm": "0.6367",
+          "NP-Fin": "0.3266",
+          "Pow-Pris": "0.0251",
+          "Pre-Pris": "0.0075",
+          "Pow-Circ": "0.0033",
+          "Pre-Circ": "0.0005",
+          "Later": "0.0005",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000032.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          369,
+          319,
+          459,
+          418
+        ],
+        "grasp": {
+          "NP-Palm": "0.472",
+          "NP-Fin": "0.52",
+          "Pow-Pris": "0.0039",
+          "Pre-Pris": "0.0031",
+          "Pow-Circ": "0.0006",
+          "Pre-Circ": "0.0002",
+          "Later": "0.0001",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000033.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          368,
+          314,
+          461,
+          415
+        ],
+        "grasp": {
+          "NP-Palm": "0.4198",
+          "NP-Fin": "0.5768",
+          "Pow-Pris": "0.0009",
+          "Pre-Pris": "0.0018",
+          "Pow-Circ": "0.0004",
+          "Pre-Circ": "0.0002",
+          "Later": "0.0001",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000034.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          368,
+          310,
+          464,
+          410
+        ],
+        "grasp": {
+          "NP-Palm": "0.2432",
+          "NP-Fin": "0.7525",
+          "Pow-Pris": "0.0004",
+          "Pre-Pris": "0.0028",
+          "Pow-Circ": "0.0003",
+          "Pre-Circ": "0.0006",
+          "Later": "0.0001",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000035.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          370,
+          306,
+          467,
+          408
+        ],
+        "grasp": {
+          "NP-Palm": "0.308",
+          "NP-Fin": "0.6865",
+          "Pow-Pris": "0.0007",
+          "Pre-Pris": "0.0033",
+          "Pow-Circ": "0.0006",
+          "Pre-Circ": "0.0008",
+          "Later": "0.0001",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000036.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          372,
+          304,
+          469,
+          403
+        ],
+        "grasp": {
+          "NP-Palm": "0.3161",
+          "NP-Fin": "0.6781",
+          "Pow-Pris": "0.0005",
+          "Pre-Pris": "0.0032",
+          "Pow-Circ": "0.0007",
+          "Pre-Circ": "0.0013",
+          "Later": "0.0001",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000037.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          376,
+          303,
+          472,
+          401
+        ],
+        "grasp": {
+          "NP-Palm": "0.2683",
+          "NP-Fin": "0.7291",
+          "Pow-Pris": "0.0001",
+          "Pre-Pris": "0.0015",
+          "Pow-Circ": "0.0003",
+          "Pre-Circ": "0.0007",
+          "Later": "0.0",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000038.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          377,
+          302,
+          472,
+          398
+        ],
+        "grasp": {
+          "NP-Palm": "0.3968",
+          "NP-Fin": "0.6",
+          "Pow-Pris": "0.0002",
+          "Pre-Pris": "0.0014",
+          "Pow-Circ": "0.0006",
+          "Pre-Circ": "0.0009",
+          "Later": "0.0",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000039.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          380,
+          305,
+          467,
+          397
+        ],
+        "grasp": {
+          "NP-Palm": "0.2975",
+          "NP-Fin": "0.6956",
+          "Pow-Pris": "0.0004",
+          "Pre-Pris": "0.0031",
+          "Pow-Circ": "0.0011",
+          "Pre-Circ": "0.0022",
+          "Later": "0.0001",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000040.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          385,
+          310,
+          456,
+          395
+        ],
+        "grasp": {
+          "NP-Palm": "0.4981",
+          "NP-Fin": "0.4477",
+          "Pow-Pris": "0.0264",
+          "Pre-Pris": "0.0182",
+          "Pow-Circ": "0.0061",
+          "Pre-Circ": "0.002",
+          "Later": "0.0014",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000041.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          383,
+          311,
+          448,
+          388
+        ],
+        "grasp": {
+          "NP-Palm": "0.2079",
+          "NP-Fin": "0.6383",
+          "Pow-Pris": "0.0315",
+          "Pre-Pris": "0.1018",
+          "Pow-Circ": "0.0062",
+          "Pre-Circ": "0.0097",
+          "Later": "0.0046",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000042.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          374,
+          309,
+          439,
+          382
+        ],
+        "grasp": {
+          "NP-Palm": "0.0267",
+          "NP-Fin": "0.7755",
+          "Pow-Pris": "0.0064",
+          "Pre-Pris": "0.1661",
+          "Pow-Circ": "0.0013",
+          "Pre-Circ": "0.018",
+          "Later": "0.0061",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000043.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          364,
+          300,
+          430,
+          380
+        ],
+        "grasp": {
+          "NP-Palm": "0.0185",
+          "NP-Fin": "0.5264",
+          "Pow-Pris": "0.0047",
+          "Pre-Pris": "0.2088",
+          "Pow-Circ": "0.0137",
+          "Pre-Circ": "0.2227",
+          "Later": "0.0052",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000044.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          352,
+          297,
+          422,
+          372
+        ],
+        "grasp": {
+          "NP-Palm": "0.0123",
+          "NP-Fin": "0.3027",
+          "Pow-Pris": "0.0189",
+          "Pre-Pris": "0.4172",
+          "Pow-Circ": "0.0218",
+          "Pre-Circ": "0.2157",
+          "Later": "0.0113",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000045.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          346,
+          291,
+          416,
+          368
+        ],
+        "grasp": {
+          "NP-Palm": "0.007",
+          "NP-Fin": "0.1844",
+          "Pow-Pris": "0.0158",
+          "Pre-Pris": "0.3787",
+          "Pow-Circ": "0.0377",
+          "Pre-Circ": "0.3675",
+          "Later": "0.0087",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000046.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          340,
+          290,
+          414,
+          365
+        ],
+        "grasp": {
+          "NP-Palm": "0.0214",
+          "NP-Fin": "0.0931",
+          "Pow-Pris": "0.1437",
+          "Pre-Pris": "0.4265",
+          "Pow-Circ": "0.1274",
+          "Pre-Circ": "0.1749",
+          "Later": "0.0129",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000047.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          343,
+          291,
+          410,
+          363
+        ],
+        "grasp": {
+          "NP-Palm": "0.0081",
+          "NP-Fin": "0.1185",
+          "Pow-Pris": "0.1318",
+          "Pre-Pris": "0.6921",
+          "Pow-Circ": "0.0053",
+          "Pre-Circ": "0.0218",
+          "Later": "0.0224",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000048.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          342,
+          291,
+          408,
+          364
+        ],
+        "grasp": {
+          "NP-Palm": "0.0285",
+          "NP-Fin": "0.1986",
+          "Pow-Pris": "0.13",
+          "Pre-Pris": "0.5715",
+          "Pow-Circ": "0.0134",
+          "Pre-Circ": "0.0374",
+          "Later": "0.0205",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000049.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          343,
+          292,
+          408,
+          364
+        ],
+        "grasp": {
+          "NP-Palm": "0.0235",
+          "NP-Fin": "0.1196",
+          "Pow-Pris": "0.2135",
+          "Pre-Pris": "0.5816",
+          "Pow-Circ": "0.0136",
+          "Pre-Circ": "0.0257",
+          "Later": "0.0224",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000050.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          341,
+          293,
+          407,
+          365
+        ],
+        "grasp": {
+          "NP-Palm": "0.0451",
+          "NP-Fin": "0.1471",
+          "Pow-Pris": "0.2368",
+          "Pre-Pris": "0.5126",
+          "Pow-Circ": "0.0157",
+          "Pre-Circ": "0.0223",
+          "Later": "0.0203",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000051.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          340,
+          295,
+          405,
+          370
+        ],
+        "grasp": {
+          "NP-Palm": "0.0261",
+          "NP-Fin": "0.1021",
+          "Pow-Pris": "0.2936",
+          "Pre-Pris": "0.5244",
+          "Pow-Circ": "0.0136",
+          "Pre-Circ": "0.0178",
+          "Later": "0.0223",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000052.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          341,
+          295,
+          407,
+          367
+        ],
+        "grasp": {
+          "NP-Palm": "0.0082",
+          "NP-Fin": "0.0382",
+          "Pow-Pris": "0.3165",
+          "Pre-Pris": "0.5953",
+          "Pow-Circ": "0.0079",
+          "Pre-Circ": "0.0123",
+          "Later": "0.0215",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000053.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          344,
+          297,
+          407,
+          370
+        ],
+        "grasp": {
+          "NP-Palm": "0.0118",
+          "NP-Fin": "0.1011",
+          "Pow-Pris": "0.2322",
+          "Pre-Pris": "0.6106",
+          "Pow-Circ": "0.0065",
+          "Pre-Circ": "0.0143",
+          "Later": "0.0235",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000054.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          340,
+          300,
+          408,
+          371
+        ],
+        "grasp": {
+          "NP-Palm": "0.0233",
+          "NP-Fin": "0.2679",
+          "Pow-Pris": "0.1009",
+          "Pre-Pris": "0.5755",
+          "Pow-Circ": "0.0031",
+          "Pre-Circ": "0.0131",
+          "Later": "0.0161",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000055.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          343,
+          303,
+          409,
+          372
+        ],
+        "grasp": {
+          "NP-Palm": "0.0349",
+          "NP-Fin": "0.1768",
+          "Pow-Pris": "0.1962",
+          "Pre-Pris": "0.5514",
+          "Pow-Circ": "0.0078",
+          "Pre-Circ": "0.0152",
+          "Later": "0.0176",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000056.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          347,
+          309,
+          412,
+          374
+        ],
+        "grasp": {
+          "NP-Palm": "0.0019",
+          "NP-Fin": "0.0301",
+          "Pow-Pris": "0.15",
+          "Pre-Pris": "0.7669",
+          "Pow-Circ": "0.0055",
+          "Pre-Circ": "0.0237",
+          "Later": "0.0218",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000057.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          352,
+          315,
+          416,
+          377
+        ],
+        "grasp": {
+          "NP-Palm": "0.0007",
+          "NP-Fin": "0.0439",
+          "Pow-Pris": "0.0613",
+          "Pre-Pris": "0.8582",
+          "Pow-Circ": "0.0012",
+          "Pre-Circ": "0.0156",
+          "Later": "0.0191",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000058.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          357,
+          320,
+          418,
+          376
+        ],
+        "grasp": {
+          "NP-Palm": "0.0006",
+          "NP-Fin": "0.0373",
+          "Pow-Pris": "0.1436",
+          "Pre-Pris": "0.7865",
+          "Pow-Circ": "0.0005",
+          "Pre-Circ": "0.0038",
+          "Later": "0.0276",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000059.jpg": {
+      "left hand": {
+        "name": [
+          "left hand"
+        ],
+        "box": [
+          362,
+          320,
+          425,
+          380
+        ],
+        "grasp": {
+          "NP-Palm": "0.0015",
+          "NP-Fin": "0.0609",
+          "Pow-Pris": "0.0994",
+          "Pre-Pris": "0.791",
+          "Pow-Circ": "0.0022",
+          "Pre-Circ": "0.0169",
+          "Later": "0.0282",
+          "Other": "0.0"
+        }
+      },
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          3,
+          9,
+          369,
+          367
+        ],
+        "grasp": {
+          "NP-Palm": "0.0032",
+          "NP-Fin": "0.3748",
+          "Pow-Pris": "0.0182",
+          "Pre-Pris": "0.5863",
+          "Pow-Circ": "0.0006",
+          "Pre-Circ": "0.0124",
+          "Later": "0.0044",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000060.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          372,
+          323,
+          431,
+          381
+        ],
+        "grasp": {
+          "NP-Palm": "0.0011",
+          "NP-Fin": "0.1721",
+          "Pow-Pris": "0.0153",
+          "Pre-Pris": "0.7621",
+          "Pow-Circ": "0.0007",
+          "Pre-Circ": "0.0278",
+          "Later": "0.0209",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000061.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          379,
+          322,
+          439,
+          387
+        ],
+        "grasp": {
+          "NP-Palm": "0.0002",
+          "NP-Fin": "0.002",
+          "Pow-Pris": "0.6225",
+          "Pre-Pris": "0.3581",
+          "Pow-Circ": "0.001",
+          "Pre-Circ": "0.0009",
+          "Later": "0.0151",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000062.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          382,
+          325,
+          444,
+          386
+        ],
+        "grasp": {
+          "NP-Palm": "0.0002",
+          "NP-Fin": "0.0002",
+          "Pow-Pris": "0.9565",
+          "Pre-Pris": "0.0394",
+          "Pow-Circ": "0.001",
+          "Pre-Circ": "0.0001",
+          "Later": "0.0027",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000063.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          388,
+          326,
+          449,
+          393
+        ],
+        "grasp": {
+          "NP-Palm": "0.0001",
+          "NP-Fin": "0.0",
+          "Pow-Pris": "0.9809",
+          "Pre-Pris": "0.017",
+          "Pow-Circ": "0.0008",
+          "Pre-Circ": "0.0",
+          "Later": "0.0012",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000064.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          392,
+          328,
+          453,
+          391
+        ],
+        "grasp": {
+          "NP-Palm": "0.0006",
+          "NP-Fin": "0.0004",
+          "Pow-Pris": "0.9249",
+          "Pre-Pris": "0.0627",
+          "Pow-Circ": "0.0049",
+          "Pre-Circ": "0.0004",
+          "Later": "0.006",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000065.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          399,
+          329,
+          460,
+          392
+        ],
+        "grasp": {
+          "NP-Palm": "0.0039",
+          "NP-Fin": "0.0069",
+          "Pow-Pris": "0.8072",
+          "Pre-Pris": "0.1613",
+          "Pow-Circ": "0.0044",
+          "Pre-Circ": "0.0011",
+          "Later": "0.0153",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000066.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          405,
+          328,
+          467,
+          392
+        ],
+        "grasp": {
+          "NP-Palm": "0.0486",
+          "NP-Fin": "0.1134",
+          "Pow-Pris": "0.4992",
+          "Pre-Pris": "0.295",
+          "Pow-Circ": "0.0135",
+          "Pre-Circ": "0.0067",
+          "Later": "0.0235",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000067.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          414,
+          330,
+          475,
+          398
+        ],
+        "grasp": {
+          "NP-Palm": "0.0",
+          "NP-Fin": "0.0013",
+          "Pow-Pris": "0.2481",
+          "Pre-Pris": "0.7224",
+          "Pow-Circ": "0.0007",
+          "Pre-Circ": "0.0031",
+          "Later": "0.0245",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000068.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          423,
+          331,
+          482,
+          398
+        ],
+        "grasp": {
+          "NP-Palm": "0.0",
+          "NP-Fin": "0.0002",
+          "Pow-Pris": "0.6115",
+          "Pre-Pris": "0.3701",
+          "Pow-Circ": "0.0034",
+          "Pre-Circ": "0.0027",
+          "Later": "0.012",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000069.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          430,
+          331,
+          489,
+          399
+        ],
+        "grasp": {
+          "NP-Palm": "0.0",
+          "NP-Fin": "0.001",
+          "Pow-Pris": "0.1792",
+          "Pre-Pris": "0.7891",
+          "Pow-Circ": "0.001",
+          "Pre-Circ": "0.0059",
+          "Later": "0.0239",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000070.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          435,
+          330,
+          495,
+          398
+        ],
+        "grasp": {
+          "NP-Palm": "0.0001",
+          "NP-Fin": "0.0025",
+          "Pow-Pris": "0.1068",
+          "Pre-Pris": "0.8527",
+          "Pow-Circ": "0.0011",
+          "Pre-Circ": "0.0106",
+          "Later": "0.0262",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000071.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          442,
+          329,
+          500,
+          396
+        ],
+        "grasp": {
+          "NP-Palm": "0.0002",
+          "NP-Fin": "0.0043",
+          "Pow-Pris": "0.1936",
+          "Pre-Pris": "0.7577",
+          "Pow-Circ": "0.0012",
+          "Pre-Circ": "0.0065",
+          "Later": "0.0365",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000072.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          451,
+          326,
+          507,
+          394
+        ],
+        "grasp": {
+          "NP-Palm": "0.0001",
+          "NP-Fin": "0.0013",
+          "Pow-Pris": "0.2603",
+          "Pre-Pris": "0.7044",
+          "Pow-Circ": "0.0016",
+          "Pre-Circ": "0.0057",
+          "Later": "0.0265",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000073.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          455,
+          328,
+          509,
+          392
+        ],
+        "grasp": {
+          "NP-Palm": "0.0",
+          "NP-Fin": "0.001",
+          "Pow-Pris": "0.2219",
+          "Pre-Pris": "0.7474",
+          "Pow-Circ": "0.0011",
+          "Pre-Circ": "0.0052",
+          "Later": "0.0233",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000074.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          456,
+          326,
+          514,
+          392
+        ],
+        "grasp": {
+          "NP-Palm": "0.0001",
+          "NP-Fin": "0.0009",
+          "Pow-Pris": "0.3733",
+          "Pre-Pris": "0.592",
+          "Pow-Circ": "0.0053",
+          "Pre-Circ": "0.0098",
+          "Later": "0.0185",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000075.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          458,
+          325,
+          515,
+          392
+        ],
+        "grasp": {
+          "NP-Palm": "0.0002",
+          "NP-Fin": "0.0097",
+          "Pow-Pris": "0.0523",
+          "Pre-Pris": "0.8598",
+          "Pow-Circ": "0.0026",
+          "Pre-Circ": "0.0414",
+          "Later": "0.0339",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000076.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          459,
+          326,
+          516,
+          393
+        ],
+        "grasp": {
+          "NP-Palm": "0.0007",
+          "NP-Fin": "0.0195",
+          "Pow-Pris": "0.0599",
+          "Pre-Pris": "0.8044",
+          "Pow-Circ": "0.0061",
+          "Pre-Circ": "0.0702",
+          "Later": "0.0392",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000077.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          460,
+          326,
+          517,
+          393
+        ],
+        "grasp": {
+          "NP-Palm": "0.0006",
+          "NP-Fin": "0.0869",
+          "Pow-Pris": "0.0122",
+          "Pre-Pris": "0.8251",
+          "Pow-Circ": "0.0007",
+          "Pre-Circ": "0.0417",
+          "Later": "0.0328",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000078.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          460,
+          324,
+          517,
+          393
+        ],
+        "grasp": {
+          "NP-Palm": "0.0014",
+          "NP-Fin": "0.1754",
+          "Pow-Pris": "0.0081",
+          "Pre-Pris": "0.7129",
+          "Pow-Circ": "0.0011",
+          "Pre-Circ": "0.0723",
+          "Later": "0.0288",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000079.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          464,
+          324,
+          517,
+          386
+        ],
+        "grasp": {
+          "NP-Palm": "0.0011",
+          "NP-Fin": "0.0637",
+          "Pow-Pris": "0.0311",
+          "Pre-Pris": "0.785",
+          "Pow-Circ": "0.004",
+          "Pre-Circ": "0.0815",
+          "Later": "0.0335",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000080.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          460,
+          317,
+          517,
+          381
+        ],
+        "grasp": {
+          "NP-Palm": "0.0002",
+          "NP-Fin": "0.0097",
+          "Pow-Pris": "0.0692",
+          "Pre-Pris": "0.8662",
+          "Pow-Circ": "0.0012",
+          "Pre-Circ": "0.0175",
+          "Later": "0.0359",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000081.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          460,
+          312,
+          514,
+          375
+        ],
+        "grasp": {
+          "NP-Palm": "0.0018",
+          "NP-Fin": "0.0224",
+          "Pow-Pris": "0.1947",
+          "Pre-Pris": "0.6824",
+          "Pow-Circ": "0.0116",
+          "Pre-Circ": "0.0382",
+          "Later": "0.0487",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000082.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          460,
+          309,
+          514,
+          370
+        ],
+        "grasp": {
+          "NP-Palm": "0.0067",
+          "NP-Fin": "0.0302",
+          "Pow-Pris": "0.3208",
+          "Pre-Pris": "0.5126",
+          "Pow-Circ": "0.0354",
+          "Pre-Circ": "0.0468",
+          "Later": "0.0473",
+          "Other": "0.0003"
+        }
+      }
+    },
+    "000083.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          462,
+          308,
+          515,
+          371
+        ],
+        "grasp": {
+          "NP-Palm": "0.0026",
+          "NP-Fin": "0.0309",
+          "Pow-Pris": "0.1663",
+          "Pre-Pris": "0.6845",
+          "Pow-Circ": "0.0124",
+          "Pre-Circ": "0.0467",
+          "Later": "0.0565",
+          "Other": "0.0002"
+        }
+      }
+    },
+    "000084.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          461,
+          307,
+          515,
+          370
+        ],
+        "grasp": {
+          "NP-Palm": "0.004",
+          "NP-Fin": "0.0505",
+          "Pow-Pris": "0.1371",
+          "Pre-Pris": "0.6828",
+          "Pow-Circ": "0.0131",
+          "Pre-Circ": "0.0564",
+          "Later": "0.0558",
+          "Other": "0.0003"
+        }
+      }
+    },
+    "000085.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          459,
+          306,
+          516,
+          371
+        ],
+        "grasp": {
+          "NP-Palm": "0.0044",
+          "NP-Fin": "0.0523",
+          "Pow-Pris": "0.1638",
+          "Pre-Pris": "0.6761",
+          "Pow-Circ": "0.0111",
+          "Pre-Circ": "0.0408",
+          "Later": "0.0515",
+          "Other": "0.0002"
+        }
+      }
+    },
+    "000086.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          461,
+          303,
+          516,
+          369
+        ],
+        "grasp": {
+          "NP-Palm": "0.0032",
+          "NP-Fin": "0.0388",
+          "Pow-Pris": "0.131",
+          "Pre-Pris": "0.7196",
+          "Pow-Circ": "0.012",
+          "Pre-Circ": "0.0538",
+          "Later": "0.0415",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000087.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          466,
+          308,
+          518,
+          371
+        ],
+        "grasp": {
+          "NP-Palm": "0.0007",
+          "NP-Fin": "0.0339",
+          "Pow-Pris": "0.0512",
+          "Pre-Pris": "0.8329",
+          "Pow-Circ": "0.0017",
+          "Pre-Circ": "0.0288",
+          "Later": "0.0508",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000088.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          466,
+          311,
+          522,
+          377
+        ],
+        "grasp": {
+          "NP-Palm": "0.0005",
+          "NP-Fin": "0.0511",
+          "Pow-Pris": "0.0166",
+          "Pre-Pris": "0.8515",
+          "Pow-Circ": "0.001",
+          "Pre-Circ": "0.0463",
+          "Later": "0.0331",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000089.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          468,
+          315,
+          522,
+          381
+        ],
+        "grasp": {
+          "NP-Palm": "0.0005",
+          "NP-Fin": "0.0626",
+          "Pow-Pris": "0.0146",
+          "Pre-Pris": "0.8432",
+          "Pow-Circ": "0.0008",
+          "Pre-Circ": "0.0445",
+          "Later": "0.0339",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000090.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          467,
+          316,
+          521,
+          383
+        ],
+        "grasp": {
+          "NP-Palm": "0.0003",
+          "NP-Fin": "0.043",
+          "Pow-Pris": "0.015",
+          "Pre-Pris": "0.8665",
+          "Pow-Circ": "0.0007",
+          "Pre-Circ": "0.0383",
+          "Later": "0.0362",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000091.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          467,
+          321,
+          518,
+          385
+        ],
+        "grasp": {
+          "NP-Palm": "0.0012",
+          "NP-Fin": "0.17",
+          "Pow-Pris": "0.0125",
+          "Pre-Pris": "0.7208",
+          "Pow-Circ": "0.0014",
+          "Pre-Circ": "0.0637",
+          "Later": "0.0303",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000092.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          463,
+          325,
+          516,
+          388
+        ],
+        "grasp": {
+          "NP-Palm": "0.0035",
+          "NP-Fin": "0.5234",
+          "Pow-Pris": "0.0059",
+          "Pre-Pris": "0.4169",
+          "Pow-Circ": "0.0006",
+          "Pre-Circ": "0.0322",
+          "Later": "0.0174",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000093.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          458,
+          328,
+          513,
+          395
+        ],
+        "grasp": {
+          "NP-Palm": "0.0005",
+          "NP-Fin": "0.0805",
+          "Pow-Pris": "0.0149",
+          "Pre-Pris": "0.8443",
+          "Pow-Circ": "0.0005",
+          "Pre-Circ": "0.0256",
+          "Later": "0.0338",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000094.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          456,
+          332,
+          512,
+          398
+        ],
+        "grasp": {
+          "NP-Palm": "0.0002",
+          "NP-Fin": "0.0136",
+          "Pow-Pris": "0.0479",
+          "Pre-Pris": "0.8889",
+          "Pow-Circ": "0.0004",
+          "Pre-Circ": "0.0096",
+          "Later": "0.0394",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000095.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          452,
+          333,
+          510,
+          400
+        ],
+        "grasp": {
+          "NP-Palm": "0.0001",
+          "NP-Fin": "0.021",
+          "Pow-Pris": "0.015",
+          "Pre-Pris": "0.9206",
+          "Pow-Circ": "0.0002",
+          "Pre-Circ": "0.0115",
+          "Later": "0.0318",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000096.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          447,
+          336,
+          506,
+          402
+        ],
+        "grasp": {
+          "NP-Palm": "0.0003",
+          "NP-Fin": "0.0268",
+          "Pow-Pris": "0.0705",
+          "Pre-Pris": "0.8516",
+          "Pow-Circ": "0.0002",
+          "Pre-Circ": "0.0041",
+          "Later": "0.0464",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000097.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          439,
+          338,
+          500,
+          403
+        ],
+        "grasp": {
+          "NP-Palm": "0.0001",
+          "NP-Fin": "0.0315",
+          "Pow-Pris": "0.0164",
+          "Pre-Pris": "0.9119",
+          "Pow-Circ": "0.0001",
+          "Pre-Circ": "0.0046",
+          "Later": "0.0355",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000098.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          431,
+          340,
+          494,
+          407
+        ],
+        "grasp": {
+          "NP-Palm": "0.0002",
+          "NP-Fin": "0.1429",
+          "Pow-Pris": "0.0049",
+          "Pre-Pris": "0.8204",
+          "Pow-Circ": "0.0",
+          "Pre-Circ": "0.0071",
+          "Later": "0.0244",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000099.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          424,
+          342,
+          488,
+          405
+        ],
+        "grasp": {
+          "NP-Palm": "0.0017",
+          "NP-Fin": "0.3048",
+          "Pow-Pris": "0.0232",
+          "Pre-Pris": "0.6329",
+          "Pow-Circ": "0.0001",
+          "Pre-Circ": "0.0044",
+          "Later": "0.0328",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000100.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          418,
+          341,
+          483,
+          408
+        ],
+        "grasp": {
+          "NP-Palm": "0.0026",
+          "NP-Fin": "0.3037",
+          "Pow-Pris": "0.054",
+          "Pre-Pris": "0.6034",
+          "Pow-Circ": "0.0001",
+          "Pre-Circ": "0.0022",
+          "Later": "0.0339",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000101.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          411,
+          341,
+          475,
+          402
+        ],
+        "grasp": {
+          "NP-Palm": "0.0006",
+          "NP-Fin": "0.1109",
+          "Pow-Pris": "0.0371",
+          "Pre-Pris": "0.812",
+          "Pow-Circ": "0.0001",
+          "Pre-Circ": "0.0038",
+          "Later": "0.0354",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000102.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          402,
+          338,
+          466,
+          400
+        ],
+        "grasp": {
+          "NP-Palm": "0.0006",
+          "NP-Fin": "0.006",
+          "Pow-Pris": "0.5839",
+          "Pre-Pris": "0.3789",
+          "Pow-Circ": "0.0015",
+          "Pre-Circ": "0.0016",
+          "Later": "0.0274",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000103.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          396,
+          334,
+          460,
+          399
+        ],
+        "grasp": {
+          "NP-Palm": "0.002",
+          "NP-Fin": "0.011",
+          "Pow-Pris": "0.7153",
+          "Pre-Pris": "0.2498",
+          "Pow-Circ": "0.0016",
+          "Pre-Circ": "0.0008",
+          "Later": "0.0194",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000104.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          390,
+          332,
+          455,
+          397
+        ],
+        "grasp": {
+          "NP-Palm": "0.0305",
+          "NP-Fin": "0.4573",
+          "Pow-Pris": "0.0857",
+          "Pre-Pris": "0.3833",
+          "Pow-Circ": "0.0047",
+          "Pre-Circ": "0.0163",
+          "Later": "0.022",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000105.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          385,
+          330,
+          451,
+          396
+        ],
+        "grasp": {
+          "NP-Palm": "0.0012",
+          "NP-Fin": "0.0267",
+          "Pow-Pris": "0.1803",
+          "Pre-Pris": "0.7312",
+          "Pow-Circ": "0.0039",
+          "Pre-Circ": "0.0173",
+          "Later": "0.0394",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000106.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          380,
+          329,
+          444,
+          393
+        ],
+        "grasp": {
+          "NP-Palm": "0.0028",
+          "NP-Fin": "0.0393",
+          "Pow-Pris": "0.1866",
+          "Pre-Pris": "0.6858",
+          "Pow-Circ": "0.011",
+          "Pre-Circ": "0.0359",
+          "Later": "0.0384",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000107.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          375,
+          328,
+          442,
+          393
+        ],
+        "grasp": {
+          "NP-Palm": "0.0011",
+          "NP-Fin": "0.0293",
+          "Pow-Pris": "0.0908",
+          "Pre-Pris": "0.7969",
+          "Pow-Circ": "0.0066",
+          "Pre-Circ": "0.0485",
+          "Later": "0.0269",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000108.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          372,
+          326,
+          437,
+          391
+        ],
+        "grasp": {
+          "NP-Palm": "0.0028",
+          "NP-Fin": "0.019",
+          "Pow-Pris": "0.2283",
+          "Pre-Pris": "0.5804",
+          "Pow-Circ": "0.0516",
+          "Pre-Circ": "0.0906",
+          "Later": "0.0273",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000109.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          372,
+          327,
+          436,
+          391
+        ],
+        "grasp": {
+          "NP-Palm": "0.0029",
+          "NP-Fin": "0.0386",
+          "Pow-Pris": "0.1048",
+          "Pre-Pris": "0.646",
+          "Pow-Circ": "0.0357",
+          "Pre-Circ": "0.1439",
+          "Later": "0.028",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000110.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          370,
+          326,
+          434,
+          391
+        ],
+        "grasp": {
+          "NP-Palm": "0.0032",
+          "NP-Fin": "0.024",
+          "Pow-Pris": "0.2654",
+          "Pre-Pris": "0.5917",
+          "Pow-Circ": "0.0359",
+          "Pre-Circ": "0.0577",
+          "Later": "0.0222",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000111.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          368,
+          327,
+          430,
+          388
+        ],
+        "grasp": {
+          "NP-Palm": "0.0028",
+          "NP-Fin": "0.018",
+          "Pow-Pris": "0.3758",
+          "Pre-Pris": "0.5251",
+          "Pow-Circ": "0.0247",
+          "Pre-Circ": "0.0287",
+          "Later": "0.0248",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000112.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          367,
+          324,
+          430,
+          390
+        ],
+        "grasp": {
+          "NP-Palm": "0.002",
+          "NP-Fin": "0.0113",
+          "Pow-Pris": "0.4138",
+          "Pre-Pris": "0.5151",
+          "Pow-Circ": "0.0189",
+          "Pre-Circ": "0.0199",
+          "Later": "0.0189",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000113.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          366,
+          321,
+          428,
+          388
+        ],
+        "grasp": {
+          "NP-Palm": "0.0033",
+          "NP-Fin": "0.0257",
+          "Pow-Pris": "0.3353",
+          "Pre-Pris": "0.591",
+          "Pow-Circ": "0.0086",
+          "Pre-Circ": "0.0137",
+          "Later": "0.0224",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000114.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          367,
+          321,
+          427,
+          384
+        ],
+        "grasp": {
+          "NP-Palm": "0.0057",
+          "NP-Fin": "0.0291",
+          "Pow-Pris": "0.3576",
+          "Pre-Pris": "0.5294",
+          "Pow-Circ": "0.0251",
+          "Pre-Circ": "0.029",
+          "Later": "0.0241",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000115.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          367,
+          321,
+          427,
+          381
+        ],
+        "grasp": {
+          "NP-Palm": "0.0025",
+          "NP-Fin": "0.0247",
+          "Pow-Pris": "0.2193",
+          "Pre-Pris": "0.6674",
+          "Pow-Circ": "0.0191",
+          "Pre-Circ": "0.0442",
+          "Later": "0.0228",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000116.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          368,
+          320,
+          428,
+          382
+        ],
+        "grasp": {
+          "NP-Palm": "0.0036",
+          "NP-Fin": "0.0167",
+          "Pow-Pris": "0.3957",
+          "Pre-Pris": "0.5133",
+          "Pow-Circ": "0.0228",
+          "Pre-Circ": "0.0244",
+          "Later": "0.0236",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000117.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          369,
+          318,
+          430,
+          382
+        ],
+        "grasp": {
+          "NP-Palm": "0.0049",
+          "NP-Fin": "0.0217",
+          "Pow-Pris": "0.4191",
+          "Pre-Pris": "0.4854",
+          "Pow-Circ": "0.0226",
+          "Pre-Circ": "0.0218",
+          "Later": "0.0244",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000118.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          367,
+          316,
+          431,
+          384
+        ],
+        "grasp": {
+          "NP-Palm": "0.0039",
+          "NP-Fin": "0.0342",
+          "Pow-Pris": "0.2348",
+          "Pre-Pris": "0.6757",
+          "Pow-Circ": "0.0083",
+          "Pre-Circ": "0.0199",
+          "Later": "0.0232",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000119.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          369,
+          316,
+          429,
+          378
+        ],
+        "grasp": {
+          "NP-Palm": "0.0027",
+          "NP-Fin": "0.0084",
+          "Pow-Pris": "0.5304",
+          "Pre-Pris": "0.3973",
+          "Pow-Circ": "0.0253",
+          "Pre-Circ": "0.0162",
+          "Later": "0.0196",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000120.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          367,
+          315,
+          429,
+          377
+        ],
+        "grasp": {
+          "NP-Palm": "0.0009",
+          "NP-Fin": "0.0057",
+          "Pow-Pris": "0.4827",
+          "Pre-Pris": "0.4755",
+          "Pow-Circ": "0.0071",
+          "Pre-Circ": "0.0075",
+          "Later": "0.0206",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000121.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          367,
+          314,
+          427,
+          377
+        ],
+        "grasp": {
+          "NP-Palm": "0.001",
+          "NP-Fin": "0.0067",
+          "Pow-Pris": "0.4443",
+          "Pre-Pris": "0.5038",
+          "Pow-Circ": "0.0092",
+          "Pre-Circ": "0.0109",
+          "Later": "0.0242",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000122.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          368,
+          315,
+          428,
+          378
+        ],
+        "grasp": {
+          "NP-Palm": "0.0004",
+          "NP-Fin": "0.0046",
+          "Pow-Pris": "0.3364",
+          "Pre-Pris": "0.6207",
+          "Pow-Circ": "0.0044",
+          "Pre-Circ": "0.0093",
+          "Later": "0.0242",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000123.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          371,
+          315,
+          430,
+          377
+        ],
+        "grasp": {
+          "NP-Palm": "0.001",
+          "NP-Fin": "0.0056",
+          "Pow-Pris": "0.5054",
+          "Pre-Pris": "0.4478",
+          "Pow-Circ": "0.0107",
+          "Pre-Circ": "0.0097",
+          "Later": "0.0198",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000124.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          368,
+          315,
+          430,
+          380
+        ],
+        "grasp": {
+          "NP-Palm": "0.0014",
+          "NP-Fin": "0.0119",
+          "Pow-Pris": "0.2358",
+          "Pre-Pris": "0.6972",
+          "Pow-Circ": "0.0109",
+          "Pre-Circ": "0.0258",
+          "Later": "0.0171",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000125.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          369,
+          317,
+          430,
+          383
+        ],
+        "grasp": {
+          "NP-Palm": "0.0006",
+          "NP-Fin": "0.015",
+          "Pow-Pris": "0.0912",
+          "Pre-Pris": "0.8087",
+          "Pow-Circ": "0.0072",
+          "Pre-Circ": "0.053",
+          "Later": "0.0242",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000126.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          367,
+          320,
+          429,
+          388
+        ],
+        "grasp": {
+          "NP-Palm": "0.0021",
+          "NP-Fin": "0.0759",
+          "Pow-Pris": "0.0602",
+          "Pre-Pris": "0.7903",
+          "Pow-Circ": "0.0039",
+          "Pre-Circ": "0.0412",
+          "Later": "0.0264",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000127.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          363,
+          322,
+          431,
+          388
+        ],
+        "grasp": {
+          "NP-Palm": "0.0051",
+          "NP-Fin": "0.0631",
+          "Pow-Pris": "0.1386",
+          "Pre-Pris": "0.7233",
+          "Pow-Circ": "0.0097",
+          "Pre-Circ": "0.0374",
+          "Later": "0.0229",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000128.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          362,
+          322,
+          434,
+          394
+        ],
+        "grasp": {
+          "NP-Palm": "0.0197",
+          "NP-Fin": "0.1004",
+          "Pow-Pris": "0.2639",
+          "Pre-Pris": "0.5442",
+          "Pow-Circ": "0.0204",
+          "Pre-Circ": "0.0294",
+          "Later": "0.0218",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000129.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          366,
+          321,
+          435,
+          399
+        ],
+        "grasp": {
+          "NP-Palm": "0.0054",
+          "NP-Fin": "0.0199",
+          "Pow-Pris": "0.0936",
+          "Pre-Pris": "0.2214",
+          "Pow-Circ": "0.3232",
+          "Pre-Circ": "0.3274",
+          "Later": "0.009",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000130.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          364,
+          320,
+          441,
+          407
+        ],
+        "grasp": {
+          "NP-Palm": "0.0221",
+          "NP-Fin": "0.0238",
+          "Pow-Pris": "0.1772",
+          "Pre-Pris": "0.1148",
+          "Pow-Circ": "0.5079",
+          "Pre-Circ": "0.1452",
+          "Later": "0.0088",
+          "Other": "0.0002"
+        }
+      }
+    },
+    "000131.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          366,
+          318,
+          452,
+          413
+        ],
+        "grasp": {
+          "NP-Palm": "0.3125",
+          "NP-Fin": "0.4928",
+          "Pow-Pris": "0.0301",
+          "Pre-Pris": "0.0677",
+          "Pow-Circ": "0.0531",
+          "Pre-Circ": "0.0411",
+          "Later": "0.0027",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000132.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          363,
+          323,
+          459,
+          421
+        ],
+        "grasp": {
+          "NP-Palm": "0.341",
+          "NP-Fin": "0.6493",
+          "Pow-Pris": "0.0005",
+          "Pre-Pris": "0.0038",
+          "Pow-Circ": "0.002",
+          "Pre-Circ": "0.0034",
+          "Later": "0.0001",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000133.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          364,
+          330,
+          461,
+          428
+        ],
+        "grasp": {
+          "NP-Palm": "0.2097",
+          "NP-Fin": "0.788",
+          "Pow-Pris": "0.0001",
+          "Pre-Pris": "0.0014",
+          "Pow-Circ": "0.0002",
+          "Pre-Circ": "0.0006",
+          "Later": "0.0",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000134.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          362,
+          337,
+          463,
+          439
+        ],
+        "grasp": {
+          "NP-Palm": "0.1099",
+          "NP-Fin": "0.8874",
+          "Pow-Pris": "0.0001",
+          "Pre-Pris": "0.0019",
+          "Pow-Circ": "0.0001",
+          "Pre-Circ": "0.0007",
+          "Later": "0.0",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000135.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          359,
+          341,
+          464,
+          442
+        ],
+        "grasp": {
+          "NP-Palm": "0.2739",
+          "NP-Fin": "0.7227",
+          "Pow-Pris": "0.0002",
+          "Pre-Pris": "0.0021",
+          "Pow-Circ": "0.0004",
+          "Pre-Circ": "0.0007",
+          "Later": "0.0",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000136.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          358,
+          345,
+          461,
+          448
+        ],
+        "grasp": {
+          "NP-Palm": "0.2398",
+          "NP-Fin": "0.6527",
+          "Pow-Pris": "0.0479",
+          "Pre-Pris": "0.0537",
+          "Pow-Circ": "0.0022",
+          "Pre-Circ": "0.0014",
+          "Later": "0.0023",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000137.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          360,
+          361,
+          449,
+          462
+        ],
+        "grasp": {
+          "NP-Palm": "0.0982",
+          "NP-Fin": "0.8295",
+          "Pow-Pris": "0.0277",
+          "Pre-Pris": "0.0414",
+          "Pow-Circ": "0.0003",
+          "Pre-Circ": "0.0004",
+          "Later": "0.0025",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000138.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          360,
+          387,
+          441,
+          479
+        ],
+        "grasp": {
+          "NP-Palm": "0.0254",
+          "NP-Fin": "0.9669",
+          "Pow-Pris": "0.0006",
+          "Pre-Pris": "0.0067",
+          "Pow-Circ": "0.0",
+          "Pre-Circ": "0.0001",
+          "Later": "0.0002",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000139.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          360,
+          413,
+          439,
+          480
+        ],
+        "grasp": {
+          "NP-Palm": "0.0344",
+          "NP-Fin": "0.9468",
+          "Pow-Pris": "0.0024",
+          "Pre-Pris": "0.0157",
+          "Pow-Circ": "0.0",
+          "Pre-Circ": "0.0001",
+          "Later": "0.0004",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000140.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          376,
+          437,
+          437,
+          479
+        ],
+        "grasp": {
+          "NP-Palm": "0.0013",
+          "NP-Fin": "0.9783",
+          "Pow-Pris": "0.0001",
+          "Pre-Pris": "0.0198",
+          "Pow-Circ": "0.0",
+          "Pre-Circ": "0.0002",
+          "Later": "0.0003",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000141.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          3,
+          6,
+          373,
+          383
+        ],
+        "grasp": {
+          "NP-Palm": "0.0825",
+          "NP-Fin": "0.7001",
+          "Pow-Pris": "0.0433",
+          "Pre-Pris": "0.1642",
+          "Pow-Circ": "0.0028",
+          "Pre-Circ": "0.0049",
+          "Later": "0.0022",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000142.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          1,
+          6,
+          372,
+          387
+        ],
+        "grasp": {
+          "NP-Palm": "0.1869",
+          "NP-Fin": "0.4877",
+          "Pow-Pris": "0.151",
+          "Pre-Pris": "0.1601",
+          "Pow-Circ": "0.0078",
+          "Pre-Circ": "0.0038",
+          "Later": "0.0026",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000143.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          0,
+          5,
+          385,
+          378
+        ],
+        "grasp": {
+          "NP-Palm": "0.0683",
+          "NP-Fin": "0.7052",
+          "Pow-Pris": "0.0414",
+          "Pre-Pris": "0.1785",
+          "Pow-Circ": "0.0015",
+          "Pre-Circ": "0.0032",
+          "Later": "0.0018",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000144.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          3,
+          3,
+          378,
+          384
+        ],
+        "grasp": {
+          "NP-Palm": "0.1224",
+          "NP-Fin": "0.58",
+          "Pow-Pris": "0.0971",
+          "Pre-Pris": "0.1899",
+          "Pow-Circ": "0.0043",
+          "Pre-Circ": "0.0039",
+          "Later": "0.0023",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000145.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          3,
+          1,
+          383,
+          384
+        ],
+        "grasp": {
+          "NP-Palm": "0.073",
+          "NP-Fin": "0.7572",
+          "Pow-Pris": "0.0292",
+          "Pre-Pris": "0.1337",
+          "Pow-Circ": "0.0018",
+          "Pre-Circ": "0.0036",
+          "Later": "0.0015",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000146.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          1,
+          2,
+          377,
+          385
+        ],
+        "grasp": {
+          "NP-Palm": "0.0489",
+          "NP-Fin": "0.6417",
+          "Pow-Pris": "0.0512",
+          "Pre-Pris": "0.2497",
+          "Pow-Circ": "0.0017",
+          "Pre-Circ": "0.0041",
+          "Later": "0.0028",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000147.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          2,
+          8,
+          375,
+          384
+        ],
+        "grasp": {
+          "NP-Palm": "0.0283",
+          "NP-Fin": "0.7889",
+          "Pow-Pris": "0.0162",
+          "Pre-Pris": "0.1625",
+          "Pow-Circ": "0.0004",
+          "Pre-Circ": "0.0022",
+          "Later": "0.0015",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000148.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          13,
+          2,
+          361,
+          374
+        ],
+        "grasp": {
+          "NP-Palm": "0.2279",
+          "NP-Fin": "0.3712",
+          "Pow-Pris": "0.2234",
+          "Pre-Pris": "0.1541",
+          "Pow-Circ": "0.0157",
+          "Pre-Circ": "0.0049",
+          "Later": "0.0029",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000149.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          3,
+          0,
+          375,
+          380
+        ],
+        "grasp": {
+          "NP-Palm": "0.0347",
+          "NP-Fin": "0.4915",
+          "Pow-Pris": "0.0703",
+          "Pre-Pris": "0.3855",
+          "Pow-Circ": "0.0035",
+          "Pre-Circ": "0.0098",
+          "Later": "0.0048",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000150.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          6,
+          0,
+          365,
+          379
+        ],
+        "grasp": {
+          "NP-Palm": "0.1546",
+          "NP-Fin": "0.6403",
+          "Pow-Pris": "0.0637",
+          "Pre-Pris": "0.1294",
+          "Pow-Circ": "0.0054",
+          "Pre-Circ": "0.0047",
+          "Later": "0.002",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000151.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          2,
+          8,
+          373,
+          382
+        ],
+        "grasp": {
+          "NP-Palm": "0.1189",
+          "NP-Fin": "0.4245",
+          "Pow-Pris": "0.2034",
+          "Pre-Pris": "0.2397",
+          "Pow-Circ": "0.0061",
+          "Pre-Circ": "0.0037",
+          "Later": "0.0037",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000152.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          3,
+          4,
+          376,
+          382
+        ],
+        "grasp": {
+          "NP-Palm": "0.1034",
+          "NP-Fin": "0.6583",
+          "Pow-Pris": "0.0665",
+          "Pre-Pris": "0.1647",
+          "Pow-Circ": "0.0022",
+          "Pre-Circ": "0.0027",
+          "Later": "0.0022",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000153.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          8,
+          2,
+          371,
+          377
+        ],
+        "grasp": {
+          "NP-Palm": "0.1927",
+          "NP-Fin": "0.5737",
+          "Pow-Pris": "0.1046",
+          "Pre-Pris": "0.1212",
+          "Pow-Circ": "0.0039",
+          "Pre-Circ": "0.0021",
+          "Later": "0.0018",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000154.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          3,
+          6,
+          375,
+          380
+        ],
+        "grasp": {
+          "NP-Palm": "0.1552",
+          "NP-Fin": "0.6511",
+          "Pow-Pris": "0.0685",
+          "Pre-Pris": "0.1171",
+          "Pow-Circ": "0.0037",
+          "Pre-Circ": "0.0028",
+          "Later": "0.0016",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000155.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          7,
+          0,
+          370,
+          372
+        ],
+        "grasp": {
+          "NP-Palm": "0.1757",
+          "NP-Fin": "0.5416",
+          "Pow-Pris": "0.1125",
+          "Pre-Pris": "0.1551",
+          "Pow-Circ": "0.0081",
+          "Pre-Circ": "0.0048",
+          "Later": "0.0022",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000156.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          8,
+          6,
+          370,
+          369
+        ],
+        "grasp": {
+          "NP-Palm": "0.1056",
+          "NP-Fin": "0.6358",
+          "Pow-Pris": "0.0827",
+          "Pre-Pris": "0.1673",
+          "Pow-Circ": "0.0032",
+          "Pre-Circ": "0.0031",
+          "Later": "0.0023",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000157.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          2,
+          0,
+          378,
+          383
+        ],
+        "grasp": {
+          "NP-Palm": "0.1933",
+          "NP-Fin": "0.493",
+          "Pow-Pris": "0.1569",
+          "Pre-Pris": "0.1448",
+          "Pow-Circ": "0.0068",
+          "Pre-Circ": "0.0029",
+          "Later": "0.0023",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000158.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          380,
+          443,
+          444,
+          479
+        ],
+        "grasp": {
+          "NP-Palm": "0.0112",
+          "NP-Fin": "0.9806",
+          "Pow-Pris": "0.0001",
+          "Pre-Pris": "0.0077",
+          "Pow-Circ": "0.0",
+          "Pre-Circ": "0.0002",
+          "Later": "0.0001",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000159.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          372,
+          428,
+          443,
+          479
+        ],
+        "grasp": {
+          "NP-Palm": "0.2178",
+          "NP-Fin": "0.7689",
+          "Pow-Pris": "0.0027",
+          "Pre-Pris": "0.0099",
+          "Pow-Circ": "0.0001",
+          "Pre-Circ": "0.0002",
+          "Later": "0.0003",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000160.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          373,
+          417,
+          442,
+          479
+        ],
+        "grasp": {
+          "NP-Palm": "0.0245",
+          "NP-Fin": "0.8777",
+          "Pow-Pris": "0.0056",
+          "Pre-Pris": "0.0808",
+          "Pow-Circ": "0.0006",
+          "Pre-Circ": "0.0056",
+          "Later": "0.005",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000161.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          369,
+          400,
+          442,
+          474
+        ],
+        "grasp": {
+          "NP-Palm": "0.0158",
+          "NP-Fin": "0.9371",
+          "Pow-Pris": "0.0021",
+          "Pre-Pris": "0.0412",
+          "Pow-Circ": "0.0001",
+          "Pre-Circ": "0.0013",
+          "Later": "0.0023",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000162.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          368,
+          383,
+          444,
+          464
+        ],
+        "grasp": {
+          "NP-Palm": "0.1472",
+          "NP-Fin": "0.7785",
+          "Pow-Pris": "0.0212",
+          "Pre-Pris": "0.0445",
+          "Pow-Circ": "0.0019",
+          "Pre-Circ": "0.0026",
+          "Later": "0.0041",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000163.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          364,
+          364,
+          448,
+          457
+        ],
+        "grasp": {
+          "NP-Palm": "0.1126",
+          "NP-Fin": "0.858",
+          "Pow-Pris": "0.0071",
+          "Pre-Pris": "0.0203",
+          "Pow-Circ": "0.0003",
+          "Pre-Circ": "0.0006",
+          "Later": "0.0011",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000164.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          358,
+          349,
+          454,
+          446
+        ],
+        "grasp": {
+          "NP-Palm": "0.3075",
+          "NP-Fin": "0.6531",
+          "Pow-Pris": "0.0197",
+          "Pre-Pris": "0.0172",
+          "Pow-Circ": "0.001",
+          "Pre-Circ": "0.0005",
+          "Later": "0.001",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000165.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          356,
+          337,
+          458,
+          437
+        ],
+        "grasp": {
+          "NP-Palm": "0.337",
+          "NP-Fin": "0.44",
+          "Pow-Pris": "0.1401",
+          "Pre-Pris": "0.0699",
+          "Pow-Circ": "0.0071",
+          "Pre-Circ": "0.0021",
+          "Later": "0.0037",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000166.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          356,
+          331,
+          459,
+          432
+        ],
+        "grasp": {
+          "NP-Palm": "0.2047",
+          "NP-Fin": "0.7868",
+          "Pow-Pris": "0.0008",
+          "Pre-Pris": "0.0058",
+          "Pow-Circ": "0.0006",
+          "Pre-Circ": "0.0013",
+          "Later": "0.0001",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000167.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          357,
+          324,
+          461,
+          427
+        ],
+        "grasp": {
+          "NP-Palm": "0.1844",
+          "NP-Fin": "0.7902",
+          "Pow-Pris": "0.0022",
+          "Pre-Pris": "0.0168",
+          "Pow-Circ": "0.0018",
+          "Pre-Circ": "0.0043",
+          "Later": "0.0004",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000168.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          359,
+          319,
+          463,
+          419
+        ],
+        "grasp": {
+          "NP-Palm": "0.4059",
+          "NP-Fin": "0.5749",
+          "Pow-Pris": "0.0021",
+          "Pre-Pris": "0.0079",
+          "Pow-Circ": "0.0046",
+          "Pre-Circ": "0.0044",
+          "Later": "0.0002",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000169.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          358,
+          313,
+          461,
+          417
+        ],
+        "grasp": {
+          "NP-Palm": "0.7073",
+          "NP-Fin": "0.2364",
+          "Pow-Pris": "0.0039",
+          "Pre-Pris": "0.0057",
+          "Pow-Circ": "0.0362",
+          "Pre-Circ": "0.0103",
+          "Later": "0.0001",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000170.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          360,
+          314,
+          454,
+          412
+        ],
+        "grasp": {
+          "NP-Palm": "0.6642",
+          "NP-Fin": "0.3251",
+          "Pow-Pris": "0.0008",
+          "Pre-Pris": "0.0019",
+          "Pow-Circ": "0.0054",
+          "Pre-Circ": "0.0024",
+          "Later": "0.0",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000171.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          365,
+          316,
+          441,
+          406
+        ],
+        "grasp": {
+          "NP-Palm": "0.0115",
+          "NP-Fin": "0.3009",
+          "Pow-Pris": "0.0212",
+          "Pre-Pris": "0.4093",
+          "Pow-Circ": "0.0239",
+          "Pre-Circ": "0.2201",
+          "Later": "0.0129",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000172.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          359,
+          314,
+          428,
+          400
+        ],
+        "grasp": {
+          "NP-Palm": "0.1565",
+          "NP-Fin": "0.4121",
+          "Pow-Pris": "0.0082",
+          "Pre-Pris": "0.0566",
+          "Pow-Circ": "0.1311",
+          "Pre-Circ": "0.233",
+          "Later": "0.0022",
+          "Other": "0.0002"
+        }
+      }
+    },
+    "000173.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          357,
+          313,
+          421,
+          394
+        ],
+        "grasp": {
+          "NP-Palm": "0.1129",
+          "NP-Fin": "0.2379",
+          "Pow-Pris": "0.1961",
+          "Pre-Pris": "0.2402",
+          "Pow-Circ": "0.1253",
+          "Pre-Circ": "0.074",
+          "Later": "0.0134",
+          "Other": "0.0002"
+        }
+      }
+    },
+    "000174.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          355,
+          312,
+          419,
+          390
+        ],
+        "grasp": {
+          "NP-Palm": "0.1397",
+          "NP-Fin": "0.4927",
+          "Pow-Pris": "0.1005",
+          "Pre-Pris": "0.2245",
+          "Pow-Circ": "0.0144",
+          "Pre-Circ": "0.0178",
+          "Later": "0.0104",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000175.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          359,
+          308,
+          421,
+          385
+        ],
+        "grasp": {
+          "NP-Palm": "0.0116",
+          "NP-Fin": "0.1644",
+          "Pow-Pris": "0.1613",
+          "Pre-Pris": "0.6131",
+          "Pow-Circ": "0.0051",
+          "Pre-Circ": "0.0167",
+          "Later": "0.0278",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000176.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          358,
+          306,
+          421,
+          382
+        ],
+        "grasp": {
+          "NP-Palm": "0.015",
+          "NP-Fin": "0.3402",
+          "Pow-Pris": "0.0338",
+          "Pre-Pris": "0.5623",
+          "Pow-Circ": "0.003",
+          "Pre-Circ": "0.0314",
+          "Later": "0.0142",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000177.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          358,
+          306,
+          420,
+          379
+        ],
+        "grasp": {
+          "NP-Palm": "0.024",
+          "NP-Fin": "0.2995",
+          "Pow-Pris": "0.0745",
+          "Pre-Pris": "0.5611",
+          "Pow-Circ": "0.0035",
+          "Pre-Circ": "0.0187",
+          "Later": "0.0187",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000178.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          357,
+          303,
+          419,
+          378
+        ],
+        "grasp": {
+          "NP-Palm": "0.0143",
+          "NP-Fin": "0.2874",
+          "Pow-Pris": "0.0283",
+          "Pre-Pris": "0.5913",
+          "Pow-Circ": "0.0052",
+          "Pre-Circ": "0.06",
+          "Later": "0.0136",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000179.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          361,
+          302,
+          420,
+          376
+        ],
+        "grasp": {
+          "NP-Palm": "0.008",
+          "NP-Fin": "0.1136",
+          "Pow-Pris": "0.1015",
+          "Pre-Pris": "0.7075",
+          "Pow-Circ": "0.0076",
+          "Pre-Circ": "0.0384",
+          "Later": "0.0235",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000180.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          359,
+          303,
+          420,
+          376
+        ],
+        "grasp": {
+          "NP-Palm": "0.0406",
+          "NP-Fin": "0.2731",
+          "Pow-Pris": "0.1213",
+          "Pre-Pris": "0.5026",
+          "Pow-Circ": "0.0124",
+          "Pre-Circ": "0.0318",
+          "Later": "0.0182",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000181.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          357,
+          302,
+          420,
+          376
+        ],
+        "grasp": {
+          "NP-Palm": "0.0257",
+          "NP-Fin": "0.2093",
+          "Pow-Pris": "0.1259",
+          "Pre-Pris": "0.591",
+          "Pow-Circ": "0.0065",
+          "Pre-Circ": "0.0213",
+          "Later": "0.0203",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000182.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          357,
+          304,
+          420,
+          375
+        ],
+        "grasp": {
+          "NP-Palm": "0.0546",
+          "NP-Fin": "0.2156",
+          "Pow-Pris": "0.1965",
+          "Pre-Pris": "0.4748",
+          "Pow-Circ": "0.0149",
+          "Pre-Circ": "0.0233",
+          "Later": "0.0203",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000183.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          356,
+          306,
+          419,
+          375
+        ],
+        "grasp": {
+          "NP-Palm": "0.0634",
+          "NP-Fin": "0.2959",
+          "Pow-Pris": "0.1335",
+          "Pre-Pris": "0.4495",
+          "Pow-Circ": "0.0127",
+          "Pre-Circ": "0.0262",
+          "Later": "0.0188",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000184.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          358,
+          307,
+          420,
+          376
+        ],
+        "grasp": {
+          "NP-Palm": "0.0249",
+          "NP-Fin": "0.1502",
+          "Pow-Pris": "0.2096",
+          "Pre-Pris": "0.573",
+          "Pow-Circ": "0.006",
+          "Pre-Circ": "0.0128",
+          "Later": "0.0234",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000185.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          360,
+          310,
+          421,
+          378
+        ],
+        "grasp": {
+          "NP-Palm": "0.0062",
+          "NP-Fin": "0.1071",
+          "Pow-Pris": "0.1721",
+          "Pre-Pris": "0.6789",
+          "Pow-Circ": "0.0012",
+          "Pre-Circ": "0.0053",
+          "Later": "0.0293",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000186.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          360,
+          312,
+          424,
+          377
+        ],
+        "grasp": {
+          "NP-Palm": "0.0009",
+          "NP-Fin": "0.0084",
+          "Pow-Pris": "0.4459",
+          "Pre-Pris": "0.5197",
+          "Pow-Circ": "0.0012",
+          "Pre-Circ": "0.0019",
+          "Later": "0.0218",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000187.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          364,
+          317,
+          424,
+          381
+        ],
+        "grasp": {
+          "NP-Palm": "0.0023",
+          "NP-Fin": "0.0142",
+          "Pow-Pris": "0.4978",
+          "Pre-Pris": "0.455",
+          "Pow-Circ": "0.0044",
+          "Pre-Circ": "0.0045",
+          "Later": "0.0217",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000188.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          366,
+          320,
+          428,
+          385
+        ],
+        "grasp": {
+          "NP-Palm": "0.0018",
+          "NP-Fin": "0.0208",
+          "Pow-Pris": "0.3796",
+          "Pre-Pris": "0.564",
+          "Pow-Circ": "0.003",
+          "Pre-Circ": "0.0051",
+          "Later": "0.0257",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000189.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          367,
+          324,
+          427,
+          390
+        ],
+        "grasp": {
+          "NP-Palm": "0.0038",
+          "NP-Fin": "0.0247",
+          "Pow-Pris": "0.6122",
+          "Pre-Pris": "0.3358",
+          "Pow-Circ": "0.0019",
+          "Pre-Circ": "0.0013",
+          "Later": "0.0202",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000190.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          367,
+          326,
+          427,
+          390
+        ],
+        "grasp": {
+          "NP-Palm": "0.0044",
+          "NP-Fin": "0.0152",
+          "Pow-Pris": "0.6237",
+          "Pre-Pris": "0.3234",
+          "Pow-Circ": "0.007",
+          "Pre-Circ": "0.0039",
+          "Later": "0.0223",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000191.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          369,
+          328,
+          429,
+          393
+        ],
+        "grasp": {
+          "NP-Palm": "0.0162",
+          "NP-Fin": "0.0358",
+          "Pow-Pris": "0.5881",
+          "Pre-Pris": "0.311",
+          "Pow-Circ": "0.0156",
+          "Pre-Circ": "0.0075",
+          "Later": "0.0259",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000192.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          373,
+          330,
+          433,
+          399
+        ],
+        "grasp": {
+          "NP-Palm": "0.0014",
+          "NP-Fin": "0.0116",
+          "Pow-Pris": "0.3962",
+          "Pre-Pris": "0.5459",
+          "Pow-Circ": "0.0065",
+          "Pre-Circ": "0.0098",
+          "Later": "0.0287",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000193.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          376,
+          332,
+          438,
+          400
+        ],
+        "grasp": {
+          "NP-Palm": "0.0003",
+          "NP-Fin": "0.0045",
+          "Pow-Pris": "0.2451",
+          "Pre-Pris": "0.7019",
+          "Pow-Circ": "0.0052",
+          "Pre-Circ": "0.016",
+          "Later": "0.0269",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000194.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          376,
+          334,
+          442,
+          404
+        ],
+        "grasp": {
+          "NP-Palm": "0.0001",
+          "NP-Fin": "0.002",
+          "Pow-Pris": "0.3859",
+          "Pre-Pris": "0.5861",
+          "Pow-Circ": "0.0011",
+          "Pre-Circ": "0.0024",
+          "Later": "0.0223",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000195.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          381,
+          336,
+          444,
+          406
+        ],
+        "grasp": {
+          "NP-Palm": "0.0002",
+          "NP-Fin": "0.0024",
+          "Pow-Pris": "0.5314",
+          "Pre-Pris": "0.442",
+          "Pow-Circ": "0.001",
+          "Pre-Circ": "0.0013",
+          "Later": "0.0217",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000196.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          383,
+          337,
+          448,
+          409
+        ],
+        "grasp": {
+          "NP-Palm": "0.0001",
+          "NP-Fin": "0.0003",
+          "Pow-Pris": "0.7781",
+          "Pre-Pris": "0.211",
+          "Pow-Circ": "0.0005",
+          "Pre-Circ": "0.0003",
+          "Later": "0.0098",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000197.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          389,
+          342,
+          453,
+          413
+        ],
+        "grasp": {
+          "NP-Palm": "0.0004",
+          "NP-Fin": "0.0031",
+          "Pow-Pris": "0.494",
+          "Pre-Pris": "0.471",
+          "Pow-Circ": "0.0028",
+          "Pre-Circ": "0.0035",
+          "Later": "0.0253",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000198.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          393,
+          345,
+          460,
+          418
+        ],
+        "grasp": {
+          "NP-Palm": "0.0001",
+          "NP-Fin": "0.0004",
+          "Pow-Pris": "0.7606",
+          "Pre-Pris": "0.2281",
+          "Pow-Circ": "0.001",
+          "Pre-Circ": "0.0005",
+          "Later": "0.0094",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000199.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          399,
+          345,
+          465,
+          413
+        ],
+        "grasp": {
+          "NP-Palm": "0.0008",
+          "NP-Fin": "0.0018",
+          "Pow-Pris": "0.8292",
+          "Pre-Pris": "0.1532",
+          "Pow-Circ": "0.0021",
+          "Pre-Circ": "0.0006",
+          "Later": "0.0123",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000200.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          405,
+          344,
+          473,
+          419
+        ],
+        "grasp": {
+          "NP-Palm": "0.0031",
+          "NP-Fin": "0.0138",
+          "Pow-Pris": "0.5829",
+          "Pre-Pris": "0.3698",
+          "Pow-Circ": "0.0047",
+          "Pre-Circ": "0.0034",
+          "Later": "0.0223",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000201.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          413,
+          344,
+          481,
+          418
+        ],
+        "grasp": {
+          "NP-Palm": "0.0019",
+          "NP-Fin": "0.0504",
+          "Pow-Pris": "0.1283",
+          "Pre-Pris": "0.7705",
+          "Pow-Circ": "0.0018",
+          "Pre-Circ": "0.0117",
+          "Later": "0.0354",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000202.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          423,
+          341,
+          489,
+          416
+        ],
+        "grasp": {
+          "NP-Palm": "0.0007",
+          "NP-Fin": "0.0185",
+          "Pow-Pris": "0.265",
+          "Pre-Pris": "0.6728",
+          "Pow-Circ": "0.0011",
+          "Pre-Circ": "0.0039",
+          "Later": "0.0381",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000203.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          430,
+          339,
+          498,
+          412
+        ],
+        "grasp": {
+          "NP-Palm": "0.0001",
+          "NP-Fin": "0.0028",
+          "Pow-Pris": "0.1824",
+          "Pre-Pris": "0.7787",
+          "Pow-Circ": "0.0004",
+          "Pre-Circ": "0.0028",
+          "Later": "0.0329",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000204.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          440,
+          336,
+          504,
+          411
+        ],
+        "grasp": {
+          "NP-Palm": "0.0",
+          "NP-Fin": "0.003",
+          "Pow-Pris": "0.0499",
+          "Pre-Pris": "0.9165",
+          "Pow-Circ": "0.0002",
+          "Pre-Circ": "0.0046",
+          "Later": "0.0257",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000205.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          447,
+          334,
+          511,
+          407
+        ],
+        "grasp": {
+          "NP-Palm": "0.0001",
+          "NP-Fin": "0.0099",
+          "Pow-Pris": "0.0455",
+          "Pre-Pris": "0.9039",
+          "Pow-Circ": "0.0002",
+          "Pre-Circ": "0.0047",
+          "Later": "0.0357",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000206.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          454,
+          333,
+          516,
+          406
+        ],
+        "grasp": {
+          "NP-Palm": "0.0001",
+          "NP-Fin": "0.0073",
+          "Pow-Pris": "0.0741",
+          "Pre-Pris": "0.8689",
+          "Pow-Circ": "0.0005",
+          "Pre-Circ": "0.0072",
+          "Later": "0.042",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000207.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          459,
+          331,
+          520,
+          402
+        ],
+        "grasp": {
+          "NP-Palm": "0.0001",
+          "NP-Fin": "0.0082",
+          "Pow-Pris": "0.0421",
+          "Pre-Pris": "0.8998",
+          "Pow-Circ": "0.0005",
+          "Pre-Circ": "0.0138",
+          "Later": "0.0354",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000208.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          465,
+          330,
+          523,
+          400
+        ],
+        "grasp": {
+          "NP-Palm": "0.0001",
+          "NP-Fin": "0.009",
+          "Pow-Pris": "0.0463",
+          "Pre-Pris": "0.887",
+          "Pow-Circ": "0.0012",
+          "Pre-Circ": "0.0246",
+          "Later": "0.0317",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000209.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          467,
+          325,
+          527,
+          397
+        ],
+        "grasp": {
+          "NP-Palm": "0.0001",
+          "NP-Fin": "0.0075",
+          "Pow-Pris": "0.0158",
+          "Pre-Pris": "0.912",
+          "Pow-Circ": "0.0007",
+          "Pre-Circ": "0.0394",
+          "Later": "0.0246",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000210.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          471,
+          323,
+          530,
+          394
+        ],
+        "grasp": {
+          "NP-Palm": "0.0005",
+          "NP-Fin": "0.031",
+          "Pow-Pris": "0.0303",
+          "Pre-Pris": "0.8321",
+          "Pow-Circ": "0.0027",
+          "Pre-Circ": "0.0663",
+          "Later": "0.0371",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000211.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          474,
+          322,
+          531,
+          392
+        ],
+        "grasp": {
+          "NP-Palm": "0.0002",
+          "NP-Fin": "0.0233",
+          "Pow-Pris": "0.015",
+          "Pre-Pris": "0.848",
+          "Pow-Circ": "0.0017",
+          "Pre-Circ": "0.0816",
+          "Later": "0.0301",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000212.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          475,
+          321,
+          531,
+          392
+        ],
+        "grasp": {
+          "NP-Palm": "0.0004",
+          "NP-Fin": "0.041",
+          "Pow-Pris": "0.0133",
+          "Pre-Pris": "0.8341",
+          "Pow-Circ": "0.0015",
+          "Pre-Circ": "0.0783",
+          "Later": "0.0315",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000213.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          473,
+          319,
+          530,
+          388
+        ],
+        "grasp": {
+          "NP-Palm": "0.0002",
+          "NP-Fin": "0.0165",
+          "Pow-Pris": "0.0211",
+          "Pre-Pris": "0.863",
+          "Pow-Circ": "0.0019",
+          "Pre-Circ": "0.0709",
+          "Later": "0.0264",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000214.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          471,
+          317,
+          528,
+          385
+        ],
+        "grasp": {
+          "NP-Palm": "0.0001",
+          "NP-Fin": "0.0215",
+          "Pow-Pris": "0.0117",
+          "Pre-Pris": "0.873",
+          "Pow-Circ": "0.001",
+          "Pre-Circ": "0.0686",
+          "Later": "0.0242",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000215.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          468,
+          314,
+          523,
+          383
+        ],
+        "grasp": {
+          "NP-Palm": "0.0001",
+          "NP-Fin": "0.0208",
+          "Pow-Pris": "0.012",
+          "Pre-Pris": "0.8814",
+          "Pow-Circ": "0.0009",
+          "Pre-Circ": "0.0617",
+          "Later": "0.023",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000216.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          465,
+          313,
+          522,
+          381
+        ],
+        "grasp": {
+          "NP-Palm": "0.0002",
+          "NP-Fin": "0.0314",
+          "Pow-Pris": "0.008",
+          "Pre-Pris": "0.8445",
+          "Pow-Circ": "0.0011",
+          "Pre-Circ": "0.0938",
+          "Later": "0.021",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000217.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          466,
+          313,
+          523,
+          382
+        ],
+        "grasp": {
+          "NP-Palm": "0.0002",
+          "NP-Fin": "0.029",
+          "Pow-Pris": "0.0166",
+          "Pre-Pris": "0.889",
+          "Pow-Circ": "0.0007",
+          "Pre-Circ": "0.0369",
+          "Later": "0.0276",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000218.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          467,
+          313,
+          525,
+          384
+        ],
+        "grasp": {
+          "NP-Palm": "0.0002",
+          "NP-Fin": "0.0324",
+          "Pow-Pris": "0.0101",
+          "Pre-Pris": "0.821",
+          "Pow-Circ": "0.0018",
+          "Pre-Circ": "0.1131",
+          "Later": "0.0214",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000219.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          467,
+          315,
+          524,
+          385
+        ],
+        "grasp": {
+          "NP-Palm": "0.0003",
+          "NP-Fin": "0.0508",
+          "Pow-Pris": "0.0086",
+          "Pre-Pris": "0.8357",
+          "Pow-Circ": "0.0009",
+          "Pre-Circ": "0.078",
+          "Later": "0.0256",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000220.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          467,
+          322,
+          527,
+          394
+        ],
+        "grasp": {
+          "NP-Palm": "0.0009",
+          "NP-Fin": "0.0924",
+          "Pow-Pris": "0.0134",
+          "Pre-Pris": "0.798",
+          "Pow-Circ": "0.0012",
+          "Pre-Circ": "0.058",
+          "Later": "0.0361",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000221.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          467,
+          329,
+          525,
+          401
+        ],
+        "grasp": {
+          "NP-Palm": "0.0001",
+          "NP-Fin": "0.0037",
+          "Pow-Pris": "0.1122",
+          "Pre-Pris": "0.8233",
+          "Pow-Circ": "0.0034",
+          "Pre-Circ": "0.0265",
+          "Later": "0.0307",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000222.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          462,
+          331,
+          521,
+          405
+        ],
+        "grasp": {
+          "NP-Palm": "0.0004",
+          "NP-Fin": "0.0051",
+          "Pow-Pris": "0.2579",
+          "Pre-Pris": "0.6586",
+          "Pow-Circ": "0.011",
+          "Pre-Circ": "0.0283",
+          "Later": "0.0386",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000223.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          455,
+          337,
+          515,
+          408
+        ],
+        "grasp": {
+          "NP-Palm": "0.0004",
+          "NP-Fin": "0.0144",
+          "Pow-Pris": "0.0925",
+          "Pre-Pris": "0.8265",
+          "Pow-Circ": "0.0015",
+          "Pre-Circ": "0.0161",
+          "Later": "0.0485",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000224.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          451,
+          340,
+          511,
+          414
+        ],
+        "grasp": {
+          "NP-Palm": "0.0004",
+          "NP-Fin": "0.0056",
+          "Pow-Pris": "0.3045",
+          "Pre-Pris": "0.6345",
+          "Pow-Circ": "0.0018",
+          "Pre-Circ": "0.0053",
+          "Later": "0.0479",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000225.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          444,
+          343,
+          505,
+          419
+        ],
+        "grasp": {
+          "NP-Palm": "0.0003",
+          "NP-Fin": "0.0098",
+          "Pow-Pris": "0.1437",
+          "Pre-Pris": "0.7822",
+          "Pow-Circ": "0.0019",
+          "Pre-Circ": "0.0129",
+          "Later": "0.0491",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000226.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          437,
+          349,
+          497,
+          421
+        ],
+        "grasp": {
+          "NP-Palm": "0.0002",
+          "NP-Fin": "0.0123",
+          "Pow-Pris": "0.0582",
+          "Pre-Pris": "0.8844",
+          "Pow-Circ": "0.0004",
+          "Pre-Circ": "0.0082",
+          "Later": "0.0364",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000227.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          430,
+          351,
+          490,
+          421
+        ],
+        "grasp": {
+          "NP-Palm": "0.0009",
+          "NP-Fin": "0.0567",
+          "Pow-Pris": "0.073",
+          "Pre-Pris": "0.8155",
+          "Pow-Circ": "0.0008",
+          "Pre-Circ": "0.011",
+          "Later": "0.0421",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000228.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          424,
+          353,
+          485,
+          424
+        ],
+        "grasp": {
+          "NP-Palm": "0.0027",
+          "NP-Fin": "0.0222",
+          "Pow-Pris": "0.5629",
+          "Pre-Pris": "0.3788",
+          "Pow-Circ": "0.0019",
+          "Pre-Circ": "0.0018",
+          "Later": "0.0297",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000229.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          418,
+          352,
+          481,
+          426
+        ],
+        "grasp": {
+          "NP-Palm": "0.0004",
+          "NP-Fin": "0.0054",
+          "Pow-Pris": "0.4231",
+          "Pre-Pris": "0.5353",
+          "Pow-Circ": "0.0012",
+          "Pre-Circ": "0.0023",
+          "Later": "0.0323",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000230.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          414,
+          351,
+          476,
+          422
+        ],
+        "grasp": {
+          "NP-Palm": "0.0013",
+          "NP-Fin": "0.0474",
+          "Pow-Pris": "0.1074",
+          "Pre-Pris": "0.7997",
+          "Pow-Circ": "0.0017",
+          "Pre-Circ": "0.0135",
+          "Later": "0.029",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000231.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          410,
+          347,
+          473,
+          422
+        ],
+        "grasp": {
+          "NP-Palm": "0.0009",
+          "NP-Fin": "0.0253",
+          "Pow-Pris": "0.1277",
+          "Pre-Pris": "0.7979",
+          "Pow-Circ": "0.0019",
+          "Pre-Circ": "0.013",
+          "Later": "0.0334",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000232.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          405,
+          342,
+          469,
+          420
+        ],
+        "grasp": {
+          "NP-Palm": "0.0018",
+          "NP-Fin": "0.1665",
+          "Pow-Pris": "0.0113",
+          "Pre-Pris": "0.7153",
+          "Pow-Circ": "0.0019",
+          "Pre-Circ": "0.0832",
+          "Later": "0.02",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000233.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          400,
+          339,
+          463,
+          418
+        ],
+        "grasp": {
+          "NP-Palm": "0.0046",
+          "NP-Fin": "0.3163",
+          "Pow-Pris": "0.0104",
+          "Pre-Pris": "0.5689",
+          "Pow-Circ": "0.0022",
+          "Pre-Circ": "0.0779",
+          "Later": "0.0196",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000234.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          399,
+          337,
+          460,
+          414
+        ],
+        "grasp": {
+          "NP-Palm": "0.0049",
+          "NP-Fin": "0.4767",
+          "Pow-Pris": "0.0061",
+          "Pre-Pris": "0.4308",
+          "Pow-Circ": "0.0015",
+          "Pre-Circ": "0.0663",
+          "Later": "0.0135",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000235.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          396,
+          336,
+          457,
+          411
+        ],
+        "grasp": {
+          "NP-Palm": "0.0033",
+          "NP-Fin": "0.3831",
+          "Pow-Pris": "0.0049",
+          "Pre-Pris": "0.5113",
+          "Pow-Circ": "0.0014",
+          "Pre-Circ": "0.0835",
+          "Later": "0.0126",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000236.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          393,
+          332,
+          454,
+          409
+        ],
+        "grasp": {
+          "NP-Palm": "0.0068",
+          "NP-Fin": "0.1999",
+          "Pow-Pris": "0.0418",
+          "Pre-Pris": "0.6612",
+          "Pow-Circ": "0.0061",
+          "Pre-Circ": "0.0634",
+          "Later": "0.0207",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000237.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          391,
+          331,
+          451,
+          408
+        ],
+        "grasp": {
+          "NP-Palm": "0.0134",
+          "NP-Fin": "0.2117",
+          "Pow-Pris": "0.0816",
+          "Pre-Pris": "0.6052",
+          "Pow-Circ": "0.0113",
+          "Pre-Circ": "0.055",
+          "Later": "0.0217",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000238.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          390,
+          330,
+          449,
+          406
+        ],
+        "grasp": {
+          "NP-Palm": "0.0235",
+          "NP-Fin": "0.294",
+          "Pow-Pris": "0.0962",
+          "Pre-Pris": "0.5295",
+          "Pow-Circ": "0.0074",
+          "Pre-Circ": "0.0281",
+          "Later": "0.0213",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000239.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          389,
+          329,
+          449,
+          404
+        ],
+        "grasp": {
+          "NP-Palm": "0.0032",
+          "NP-Fin": "0.0561",
+          "Pow-Pris": "0.1459",
+          "Pre-Pris": "0.7312",
+          "Pow-Circ": "0.0059",
+          "Pre-Circ": "0.0261",
+          "Later": "0.0315",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000240.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          388,
+          326,
+          449,
+          402
+        ],
+        "grasp": {
+          "NP-Palm": "0.0063",
+          "NP-Fin": "0.0902",
+          "Pow-Pris": "0.0892",
+          "Pre-Pris": "0.7082",
+          "Pow-Circ": "0.013",
+          "Pre-Circ": "0.069",
+          "Later": "0.024",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000241.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          386,
+          323,
+          446,
+          402
+        ],
+        "grasp": {
+          "NP-Palm": "0.0524",
+          "NP-Fin": "0.2939",
+          "Pow-Pris": "0.0992",
+          "Pre-Pris": "0.4528",
+          "Pow-Circ": "0.0232",
+          "Pre-Circ": "0.059",
+          "Later": "0.0194",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000242.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          386,
+          321,
+          446,
+          398
+        ],
+        "grasp": {
+          "NP-Palm": "0.026",
+          "NP-Fin": "0.2752",
+          "Pow-Pris": "0.071",
+          "Pre-Pris": "0.54",
+          "Pow-Circ": "0.0121",
+          "Pre-Circ": "0.0552",
+          "Later": "0.0203",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000243.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          385,
+          320,
+          445,
+          397
+        ],
+        "grasp": {
+          "NP-Palm": "0.0131",
+          "NP-Fin": "0.1381",
+          "Pow-Pris": "0.1222",
+          "Pre-Pris": "0.6445",
+          "Pow-Circ": "0.0116",
+          "Pre-Circ": "0.0431",
+          "Later": "0.0273",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000244.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          384,
+          319,
+          443,
+          396
+        ],
+        "grasp": {
+          "NP-Palm": "0.0526",
+          "NP-Fin": "0.316",
+          "Pow-Pris": "0.1047",
+          "Pre-Pris": "0.4322",
+          "Pow-Circ": "0.0223",
+          "Pre-Circ": "0.0525",
+          "Later": "0.0196",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000245.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          381,
+          316,
+          442,
+          390
+        ],
+        "grasp": {
+          "NP-Palm": "0.0545",
+          "NP-Fin": "0.2718",
+          "Pow-Pris": "0.1804",
+          "Pre-Pris": "0.4439",
+          "Pow-Circ": "0.0098",
+          "Pre-Circ": "0.0171",
+          "Later": "0.0225",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000246.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          378,
+          315,
+          440,
+          392
+        ],
+        "grasp": {
+          "NP-Palm": "0.0406",
+          "NP-Fin": "0.2989",
+          "Pow-Pris": "0.1174",
+          "Pre-Pris": "0.4883",
+          "Pow-Circ": "0.0083",
+          "Pre-Circ": "0.0236",
+          "Later": "0.0228",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000247.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          377,
+          314,
+          441,
+          387
+        ],
+        "grasp": {
+          "NP-Palm": "0.0227",
+          "NP-Fin": "0.2537",
+          "Pow-Pris": "0.1472",
+          "Pre-Pris": "0.5436",
+          "Pow-Circ": "0.0025",
+          "Pre-Circ": "0.0081",
+          "Later": "0.0221",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000248.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          375,
+          312,
+          440,
+          389
+        ],
+        "grasp": {
+          "NP-Palm": "0.043",
+          "NP-Fin": "0.4368",
+          "Pow-Pris": "0.0702",
+          "Pre-Pris": "0.4144",
+          "Pow-Circ": "0.0035",
+          "Pre-Circ": "0.0145",
+          "Later": "0.0176",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000249.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          374,
+          311,
+          439,
+          391
+        ],
+        "grasp": {
+          "NP-Palm": "0.0308",
+          "NP-Fin": "0.3703",
+          "Pow-Pris": "0.0193",
+          "Pre-Pris": "0.3138",
+          "Pow-Circ": "0.0353",
+          "Pre-Circ": "0.2227",
+          "Later": "0.0077",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000250.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          370,
+          309,
+          436,
+          388
+        ],
+        "grasp": {
+          "NP-Palm": "0.0167",
+          "NP-Fin": "0.3857",
+          "Pow-Pris": "0.0121",
+          "Pre-Pris": "0.3219",
+          "Pow-Circ": "0.0218",
+          "Pre-Circ": "0.2344",
+          "Later": "0.0073",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000251.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          371,
+          307,
+          436,
+          388
+        ],
+        "grasp": {
+          "NP-Palm": "0.0196",
+          "NP-Fin": "0.367",
+          "Pow-Pris": "0.026",
+          "Pre-Pris": "0.4203",
+          "Pow-Circ": "0.018",
+          "Pre-Circ": "0.1384",
+          "Later": "0.0106",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000252.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          370,
+          309,
+          436,
+          389
+        ],
+        "grasp": {
+          "NP-Palm": "0.0256",
+          "NP-Fin": "0.2245",
+          "Pow-Pris": "0.0877",
+          "Pre-Pris": "0.5049",
+          "Pow-Circ": "0.0348",
+          "Pre-Circ": "0.1068",
+          "Later": "0.0156",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000253.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          369,
+          313,
+          435,
+          392
+        ],
+        "grasp": {
+          "NP-Palm": "0.0836",
+          "NP-Fin": "0.3917",
+          "Pow-Pris": "0.0291",
+          "Pre-Pris": "0.1937",
+          "Pow-Circ": "0.0906",
+          "Pre-Circ": "0.2059",
+          "Later": "0.0053",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000254.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          370,
+          315,
+          434,
+          395
+        ],
+        "grasp": {
+          "NP-Palm": "0.1515",
+          "NP-Fin": "0.2382",
+          "Pow-Pris": "0.1889",
+          "Pre-Pris": "0.2131",
+          "Pow-Circ": "0.132",
+          "Pre-Circ": "0.0668",
+          "Later": "0.0093",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000255.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          369,
+          318,
+          435,
+          396
+        ],
+        "grasp": {
+          "NP-Palm": "0.2312",
+          "NP-Fin": "0.1316",
+          "Pow-Pris": "0.239",
+          "Pre-Pris": "0.11",
+          "Pow-Circ": "0.2388",
+          "Pre-Circ": "0.0442",
+          "Later": "0.005",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000256.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          371,
+          321,
+          438,
+          399
+        ],
+        "grasp": {
+          "NP-Palm": "0.1944",
+          "NP-Fin": "0.0746",
+          "Pow-Pris": "0.1636",
+          "Pre-Pris": "0.0681",
+          "Pow-Circ": "0.4343",
+          "Pre-Circ": "0.0618",
+          "Later": "0.0032",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000257.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          373,
+          320,
+          439,
+          403
+        ],
+        "grasp": {
+          "NP-Palm": "0.1816",
+          "NP-Fin": "0.2703",
+          "Pow-Pris": "0.0192",
+          "Pre-Pris": "0.0708",
+          "Pow-Circ": "0.234",
+          "Pre-Circ": "0.2216",
+          "Later": "0.0024",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000258.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          373,
+          320,
+          443,
+          405
+        ],
+        "grasp": {
+          "NP-Palm": "0.2784",
+          "NP-Fin": "0.2113",
+          "Pow-Pris": "0.0218",
+          "Pre-Pris": "0.0328",
+          "Pow-Circ": "0.3343",
+          "Pre-Circ": "0.12",
+          "Later": "0.0013",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000259.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          372,
+          319,
+          448,
+          408
+        ],
+        "grasp": {
+          "NP-Palm": "0.1023",
+          "NP-Fin": "0.0134",
+          "Pow-Pris": "0.139",
+          "Pre-Pris": "0.0145",
+          "Pow-Circ": "0.7076",
+          "Pre-Circ": "0.0224",
+          "Later": "0.0008",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000260.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          372,
+          318,
+          450,
+          410
+        ],
+        "grasp": {
+          "NP-Palm": "0.3275",
+          "NP-Fin": "0.0142",
+          "Pow-Pris": "0.0817",
+          "Pre-Pris": "0.0041",
+          "Pow-Circ": "0.5648",
+          "Pre-Circ": "0.0073",
+          "Later": "0.0003",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000261.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          369,
+          321,
+          454,
+          413
+        ],
+        "grasp": {
+          "NP-Palm": "0.3908",
+          "NP-Fin": "0.0566",
+          "Pow-Pris": "0.0808",
+          "Pre-Pris": "0.0159",
+          "Pow-Circ": "0.432",
+          "Pre-Circ": "0.0232",
+          "Later": "0.0008",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000262.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          368,
+          325,
+          455,
+          417
+        ],
+        "grasp": {
+          "NP-Palm": "0.3117",
+          "NP-Fin": "0.2016",
+          "Pow-Pris": "0.1312",
+          "Pre-Pris": "0.0835",
+          "Pow-Circ": "0.2176",
+          "Pre-Circ": "0.0502",
+          "Later": "0.0039",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000263.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          365,
+          329,
+          455,
+          420
+        ],
+        "grasp": {
+          "NP-Palm": "0.5765",
+          "NP-Fin": "0.2632",
+          "Pow-Pris": "0.0227",
+          "Pre-Pris": "0.0217",
+          "Pow-Circ": "0.0908",
+          "Pre-Circ": "0.024",
+          "Later": "0.0009",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000264.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          363,
+          329,
+          453,
+          421
+        ],
+        "grasp": {
+          "NP-Palm": "0.4526",
+          "NP-Fin": "0.4228",
+          "Pow-Pris": "0.0067",
+          "Pre-Pris": "0.0197",
+          "Pow-Circ": "0.0571",
+          "Pre-Circ": "0.0404",
+          "Later": "0.0007",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000265.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          362,
+          333,
+          451,
+          426
+        ],
+        "grasp": {
+          "NP-Palm": "0.4062",
+          "NP-Fin": "0.536",
+          "Pow-Pris": "0.0051",
+          "Pre-Pris": "0.017",
+          "Pow-Circ": "0.0182",
+          "Pre-Circ": "0.0168",
+          "Later": "0.0007",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000266.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          364,
+          344,
+          447,
+          433
+        ],
+        "grasp": {
+          "NP-Palm": "0.2728",
+          "NP-Fin": "0.175",
+          "Pow-Pris": "0.333",
+          "Pre-Pris": "0.1117",
+          "Pow-Circ": "0.0833",
+          "Pre-Circ": "0.015",
+          "Later": "0.0091",
+          "Other": "0.0002"
+        }
+      }
+    },
+    "000267.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          368,
+          355,
+          440,
+          443
+        ],
+        "grasp": {
+          "NP-Palm": "0.3196",
+          "NP-Fin": "0.6214",
+          "Pow-Pris": "0.027",
+          "Pre-Pris": "0.0275",
+          "Pow-Circ": "0.0015",
+          "Pre-Circ": "0.0009",
+          "Later": "0.002",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000268.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          370,
+          370,
+          439,
+          454
+        ],
+        "grasp": {
+          "NP-Palm": "0.3546",
+          "NP-Fin": "0.5242",
+          "Pow-Pris": "0.0677",
+          "Pre-Pris": "0.0456",
+          "Pow-Circ": "0.0026",
+          "Pre-Circ": "0.0012",
+          "Later": "0.004",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000269.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          372,
+          387,
+          444,
+          470
+        ],
+        "grasp": {
+          "NP-Palm": "0.1336",
+          "NP-Fin": "0.6778",
+          "Pow-Pris": "0.0612",
+          "Pre-Pris": "0.1135",
+          "Pow-Circ": "0.0017",
+          "Pre-Circ": "0.0025",
+          "Later": "0.0097",
+          "Other": "0.0001"
+        }
+      }
+    },
+    "000270.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          375,
+          410,
+          449,
+          479
+        ],
+        "grasp": {
+          "NP-Palm": "0.0341",
+          "NP-Fin": "0.7728",
+          "Pow-Pris": "0.009",
+          "Pre-Pris": "0.167",
+          "Pow-Circ": "0.0009",
+          "Pre-Circ": "0.01",
+          "Later": "0.0061",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000271.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          377,
+          432,
+          444,
+          480
+        ],
+        "grasp": {
+          "NP-Palm": "0.0007",
+          "NP-Fin": "0.9525",
+          "Pow-Pris": "0.0002",
+          "Pre-Pris": "0.0459",
+          "Pow-Circ": "0.0",
+          "Pre-Circ": "0.0002",
+          "Later": "0.0005",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000272.jpg": {
+      "left hand": {
+        "name": [
+          "left hand"
+        ],
+        "box": [
+          381,
+          456,
+          432,
+          480
+        ],
+        "grasp": {
+          "NP-Palm": "0.1069",
+          "NP-Fin": "0.6451",
+          "Pow-Pris": "0.0502",
+          "Pre-Pris": "0.1807",
+          "Pow-Circ": "0.0015",
+          "Pre-Circ": "0.0036",
+          "Later": "0.0119",
+          "Other": "0.0001"
+        }
+      },
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          7,
+          3,
+          386,
+          395
+        ],
+        "grasp": {
+          "NP-Palm": "0.0463",
+          "NP-Fin": "0.3581",
+          "Pow-Pris": "0.1213",
+          "Pre-Pris": "0.4361",
+          "Pow-Circ": "0.0121",
+          "Pre-Circ": "0.0202",
+          "Later": "0.0058",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000273.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          9,
+          5,
+          378,
+          395
+        ],
+        "grasp": {
+          "NP-Palm": "0.0861",
+          "NP-Fin": "0.2404",
+          "Pow-Pris": "0.2485",
+          "Pre-Pris": "0.3675",
+          "Pow-Circ": "0.0312",
+          "Pre-Circ": "0.0204",
+          "Later": "0.006",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000274.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          6,
+          9,
+          370,
+          395
+        ],
+        "grasp": {
+          "NP-Palm": "0.0713",
+          "NP-Fin": "0.2996",
+          "Pow-Pris": "0.1976",
+          "Pre-Pris": "0.3912",
+          "Pow-Circ": "0.0172",
+          "Pre-Circ": "0.0164",
+          "Later": "0.0068",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000275.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          10,
+          4,
+          382,
+          394
+        ],
+        "grasp": {
+          "NP-Palm": "0.0691",
+          "NP-Fin": "0.2754",
+          "Pow-Pris": "0.1968",
+          "Pre-Pris": "0.3993",
+          "Pow-Circ": "0.0284",
+          "Pre-Circ": "0.0252",
+          "Later": "0.0059",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000276.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          7,
+          3,
+          378,
+          394
+        ],
+        "grasp": {
+          "NP-Palm": "0.0753",
+          "NP-Fin": "0.3588",
+          "Pow-Pris": "0.153",
+          "Pre-Pris": "0.3748",
+          "Pow-Circ": "0.0155",
+          "Pre-Circ": "0.0172",
+          "Later": "0.0054",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000277.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          4,
+          7,
+          383,
+          397
+        ],
+        "grasp": {
+          "NP-Palm": "0.0417",
+          "NP-Fin": "0.2372",
+          "Pow-Pris": "0.1965",
+          "Pre-Pris": "0.4764",
+          "Pow-Circ": "0.0186",
+          "Pre-Circ": "0.022",
+          "Later": "0.0075",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000278.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          10,
+          5,
+          381,
+          390
+        ],
+        "grasp": {
+          "NP-Palm": "0.0737",
+          "NP-Fin": "0.272",
+          "Pow-Pris": "0.1888",
+          "Pre-Pris": "0.4096",
+          "Pow-Circ": "0.0259",
+          "Pre-Circ": "0.0241",
+          "Later": "0.0058",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000279.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          12,
+          6,
+          373,
+          390
+        ],
+        "grasp": {
+          "NP-Palm": "0.0961",
+          "NP-Fin": "0.3076",
+          "Pow-Pris": "0.2026",
+          "Pre-Pris": "0.3457",
+          "Pow-Circ": "0.0238",
+          "Pre-Circ": "0.0182",
+          "Later": "0.006",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000280.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          8,
+          4,
+          380,
+          388
+        ],
+        "grasp": {
+          "NP-Palm": "0.0566",
+          "NP-Fin": "0.243",
+          "Pow-Pris": "0.1828",
+          "Pre-Pris": "0.4624",
+          "Pow-Circ": "0.0238",
+          "Pre-Circ": "0.0258",
+          "Later": "0.0056",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000281.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          5,
+          6,
+          374,
+          392
+        ],
+        "grasp": {
+          "NP-Palm": "0.094",
+          "NP-Fin": "0.2873",
+          "Pow-Pris": "0.1971",
+          "Pre-Pris": "0.3688",
+          "Pow-Circ": "0.0263",
+          "Pre-Circ": "0.021",
+          "Later": "0.0056",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000282.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          5,
+          7,
+          380,
+          389
+        ],
+        "grasp": {
+          "NP-Palm": "0.0713",
+          "NP-Fin": "0.2835",
+          "Pow-Pris": "0.1602",
+          "Pre-Pris": "0.432",
+          "Pow-Circ": "0.0226",
+          "Pre-Circ": "0.0252",
+          "Later": "0.0053",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000283.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          5,
+          9,
+          383,
+          391
+        ],
+        "grasp": {
+          "NP-Palm": "0.0423",
+          "NP-Fin": "0.2116",
+          "Pow-Pris": "0.179",
+          "Pre-Pris": "0.5163",
+          "Pow-Circ": "0.0191",
+          "Pre-Circ": "0.025",
+          "Later": "0.0066",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000284.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          4,
+          7,
+          377,
+          389
+        ],
+        "grasp": {
+          "NP-Palm": "0.0596",
+          "NP-Fin": "0.4017",
+          "Pow-Pris": "0.1103",
+          "Pre-Pris": "0.3917",
+          "Pow-Circ": "0.0124",
+          "Pre-Circ": "0.0194",
+          "Later": "0.0048",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000285.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          10,
+          3,
+          370,
+          391
+        ],
+        "grasp": {
+          "NP-Palm": "0.0901",
+          "NP-Fin": "0.4943",
+          "Pow-Pris": "0.104",
+          "Pre-Pris": "0.2829",
+          "Pow-Circ": "0.011",
+          "Pre-Circ": "0.0134",
+          "Later": "0.0044",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000286.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          8,
+          3,
+          378,
+          390
+        ],
+        "grasp": {
+          "NP-Palm": "0.0443",
+          "NP-Fin": "0.4453",
+          "Pow-Pris": "0.0873",
+          "Pre-Pris": "0.403",
+          "Pow-Circ": "0.0047",
+          "Pre-Circ": "0.0107",
+          "Later": "0.0047",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000287.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          6,
+          7,
+          382,
+          389
+        ],
+        "grasp": {
+          "NP-Palm": "0.039",
+          "NP-Fin": "0.3522",
+          "Pow-Pris": "0.0848",
+          "Pre-Pris": "0.4735",
+          "Pow-Circ": "0.0134",
+          "Pre-Circ": "0.0317",
+          "Later": "0.0053",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000288.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          6,
+          6,
+          375,
+          387
+        ],
+        "grasp": {
+          "NP-Palm": "0.0541",
+          "NP-Fin": "0.3032",
+          "Pow-Pris": "0.1345",
+          "Pre-Pris": "0.4558",
+          "Pow-Circ": "0.0194",
+          "Pre-Circ": "0.0277",
+          "Later": "0.0054",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000289.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          9,
+          2,
+          381,
+          389
+        ],
+        "grasp": {
+          "NP-Palm": "0.0487",
+          "NP-Fin": "0.3793",
+          "Pow-Pris": "0.121",
+          "Pre-Pris": "0.4263",
+          "Pow-Circ": "0.007",
+          "Pre-Circ": "0.0122",
+          "Later": "0.0055",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000290.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          7,
+          1,
+          369,
+          381
+        ],
+        "grasp": {
+          "NP-Palm": "0.0692",
+          "NP-Fin": "0.3436",
+          "Pow-Pris": "0.0887",
+          "Pre-Pris": "0.4029",
+          "Pow-Circ": "0.0344",
+          "Pre-Circ": "0.0564",
+          "Later": "0.0049",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000291.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          0,
+          0,
+          375,
+          384
+        ],
+        "grasp": {
+          "NP-Palm": "0.0582",
+          "NP-Fin": "0.3985",
+          "Pow-Pris": "0.0847",
+          "Pre-Pris": "0.4131",
+          "Pow-Circ": "0.0138",
+          "Pre-Circ": "0.0272",
+          "Later": "0.0046",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000292.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          9,
+          4,
+          372,
+          389
+        ],
+        "grasp": {
+          "NP-Palm": "0.1021",
+          "NP-Fin": "0.382",
+          "Pow-Pris": "0.1442",
+          "Pre-Pris": "0.3245",
+          "Pow-Circ": "0.0222",
+          "Pre-Circ": "0.0205",
+          "Later": "0.0045",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000293.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          8,
+          3,
+          374,
+          389
+        ],
+        "grasp": {
+          "NP-Palm": "0.062",
+          "NP-Fin": "0.3794",
+          "Pow-Pris": "0.1236",
+          "Pre-Pris": "0.3991",
+          "Pow-Circ": "0.0122",
+          "Pre-Circ": "0.0181",
+          "Later": "0.0056",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000294.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          9,
+          2,
+          368,
+          390
+        ],
+        "grasp": {
+          "NP-Palm": "0.1033",
+          "NP-Fin": "0.3483",
+          "Pow-Pris": "0.1689",
+          "Pre-Pris": "0.3356",
+          "Pow-Circ": "0.021",
+          "Pre-Circ": "0.0179",
+          "Later": "0.0049",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000295.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          7,
+          6,
+          369,
+          389
+        ],
+        "grasp": {
+          "NP-Palm": "0.0376",
+          "NP-Fin": "0.415",
+          "Pow-Pris": "0.0805",
+          "Pre-Pris": "0.4306",
+          "Pow-Circ": "0.0089",
+          "Pre-Circ": "0.0219",
+          "Later": "0.0054",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000296.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          5,
+          5,
+          371,
+          390
+        ],
+        "grasp": {
+          "NP-Palm": "0.0525",
+          "NP-Fin": "0.3543",
+          "Pow-Pris": "0.1495",
+          "Pre-Pris": "0.4161",
+          "Pow-Circ": "0.0093",
+          "Pre-Circ": "0.0128",
+          "Later": "0.0056",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000297.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          6,
+          6,
+          375,
+          388
+        ],
+        "grasp": {
+          "NP-Palm": "0.0551",
+          "NP-Fin": "0.4542",
+          "Pow-Pris": "0.0998",
+          "Pre-Pris": "0.369",
+          "Pow-Circ": "0.0063",
+          "Pre-Circ": "0.0111",
+          "Later": "0.0044",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000298.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          5,
+          3,
+          377,
+          391
+        ],
+        "grasp": {
+          "NP-Palm": "0.0344",
+          "NP-Fin": "0.587",
+          "Pow-Pris": "0.0463",
+          "Pre-Pris": "0.3201",
+          "Pow-Circ": "0.002",
+          "Pre-Circ": "0.0069",
+          "Later": "0.0033",
+          "Other": "0.0"
+        }
+      }
+    },
+    "000299.jpg": {
+      "left hand": null,
+      "right hand": {
+        "name": [
+          "right hand"
+        ],
+        "box": [
+          7,
+          6,
+          373,
+          387
+        ],
+        "grasp": {
+          "NP-Palm": "0.0515",
+          "NP-Fin": "0.4821",
+          "Pow-Pris": "0.0808",
+          "Pre-Pris": "0.3612",
+          "Pow-Circ": "0.0064",
+          "Pre-Circ": "0.0134",
+          "Later": "0.0046",
+          "Other": "0.0"
+        }
+      }
+    }
+  }
+}

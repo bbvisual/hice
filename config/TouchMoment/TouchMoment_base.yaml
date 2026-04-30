@@ -1,0 +1,56 @@
+frame_dir: /data/CVPR26_HiCE/TouchMoment/Frames
+save_dir: /data/CVPR26_HiCE/TouchMoment_Exp/save
+store_dir: /data/CVPR26_HiCE/TouchMoment_Exp/store
+store_mode: load
+
+# Dataset
+dataset: TouchMoment
+modality: rgb
+num_classes: 1
+tolerance: [0, 1, 2]
+window: [1, 3]
+eval_split: [test]
+
+# Ablation
+soft_labels: true
+grasp_loss: true
+bi_interp_post: true
+temporal_shift: true
+
+# Data loading
+batch_size: 6
+clip_len: 40
+crop_dim: 224
+num_workers: 4
+
+# Model
+feature_arch: rny008_gsf
+temporal_arch: ed_sgp_mixer
+n_layers: 3
+sgp_ks: 9
+sgp_r: 4
+amp: true
+
+# Training
+num_epochs: 50
+warm_up_epochs: 3
+start_val_epoch: 0
+learning_rate: 0.0004
+acc_grad_iter: 1 # gradient accumulation steps
+epoch_num_frames: 200000
+mixup: false
+
+# Loss configuration
+radi_displacement: 4
+loss:
+  type: focal  # Options: ce, focal
+
+  ce:
+    fg_weight: 5.0
+
+  focal:
+    alpha: 0.9
+    gamma: 2.0
+
+# Evaluation
+criterion: map
